@@ -13,5 +13,3 @@ Process(Position):
  - While(stack !empty)
     - Pop the top one, start Process based on this square.
  
- 
-
