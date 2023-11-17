@@ -85,6 +85,7 @@ class cTour
       cout << rTour.top() << ", ";
       rTour.pop();
     }
+    cout << endl;
   }
   
 public:
@@ -97,10 +98,11 @@ public:
     Visited[Position] = true;
     Tour.push(Position);
 
-    if(4 == Tour.size()) // Placed 4 knights.
+    if(8 == Tour.size()) // Placed 4 knights.
     {
       Complete(Tour);
-      
+      Visited[Position] = false;
+      Tour.pop();
     }
     
     // While the stack is not empty:
@@ -120,18 +122,18 @@ public:
   {
     kLegalMoves LegalMoves;
 
-    int const File = Position & 0x3;
+    int const File = Position & 0x7;
     int const Rank = Position >> 3;
-
+    
     for(int i = 0; i < 8; i++)
     {
       optional<kPosition> LegalMove = IsLegal(kPosition{Rank, File}, i);
       if(LegalMove.has_value())
       {
 	int const Index = (LegalMove->first << 3) + LegalMove->second;
-	if(!Visited[Index]) LegalMoves.push(Index);	
+	if(!Visited[Index]) LegalMoves.push(Index);
       }
-    }    
+    }
     return LegalMoves;
   }
 
@@ -147,6 +149,5 @@ int main()
   stack<int> Tour;
 
   cTour::PlaceKnight(0, Tour, Visited);
-
   
 }
