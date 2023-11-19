@@ -12,4 +12,9 @@ Process(Position):
  - From the Position build a stack of legal moves.
  - While(stack !empty)
     - Pop the top one, start Process based on this square.
- 
+  
+
+## Tours
+
+Indices are [0,1,2,.. ,8,9,10,..] -> [a1,b1,c1,..,a2,b2,c2,..] 
+
