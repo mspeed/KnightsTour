@@ -15,6 +15,8 @@ using std::optional; using std::nullopt;
 
 static constexpr int TOUR_LENGTH = 64;
 
+static int TourIndex = 0;
+
 class cTour
 {
   using kPosition = pair<int, int>;
@@ -75,6 +77,8 @@ class cTour
   void static Complete(stack<int>& Tour)
   {
     stack<int> rTour;
+
+    cout << "Complete tour: " << TourIndex++ << endl;
     
     while(Tour.size())
     {
