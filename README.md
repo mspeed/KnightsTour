@@ -3856,3 +3856,1605 @@ Complete tour: 1918
 a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, c8, a7, c6, b8, a6, b4, d5, b6, a8, c7, b5, a3, c4, a5, b7, d8, e6, g5, h7, f8, d7, e5, f7, h8, g6, e7, g8, f6, e4, g3, h1, 
 Complete tour: 1919
 a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, c8, a7, c6, b8, a6, b4, d5, b6, a8, c7, b5, a3, c4, a5, b7, d8, e6, f8, d7, e5, f7, h8, g6, e7, g8, f6, h7, g5, e4, g3, h1, 
+Complete tour: 1920
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, c8, b6, a8, c7, a6, b4, d5, f6, g8, e7, g6, h8, f7, e5, d7, b8, c6, a7, b5, a3, c4, a5, b7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 1921
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, c8, b6, a8, c7, a6, b4, d5, e7, g8, f6, h7, f8, e6, d8, b7, a5, c4, a3, b5, a7, c6, b8, d7, e5, g6, h8, f7, g5, e4, g3, h1, 
+Complete tour: 1922
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, c8, b6, a8, c7, a6, b4, d5, e7, g8, f6, h7, f8, g6, h8, f7, e5, d7, b8, c6, a7, b5, a3, c4, a5, b7, d8, e6, g5, e4, g3, h1, 
+Complete tour: 1923
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, c8, b6, a8, c7, a6, b8, d7, e5, g6, h8, f7, g5, h7, f8, e6, d8, b7, a5, c4, a3, b5, a7, c6, b4, d5, e7, g8, f6, e4, g3, h1, 
+Complete tour: 1924
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, c8, b6, a8, c7, a6, b8, d7, e5, g6, h8, f7, d8, b7, a5, c4, a3, b5, a7, c6, b4, d5, e7, g8, f6, h7, f8, e6, g5, e4, g3, h1, 
+Complete tour: 1925
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, c8, b6, a8, c7, a6, b8, d7, e5, f7, h8, g6, f8, e6, d8, b7, a5, c4, a3, b5, a7, c6, b4, d5, e7, g8, f6, h7, g5, e4, g3, h1, 
+Complete tour: 1926
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, c8, b6, a8, c7, a6, b8, d7, e5, f7, h8, g6, f8, h7, f6, g8, e7, d5, b4, c6, a7, b5, a3, c4, a5, b7, d8, e6, g5, e4, g3, h1, 
+Complete tour: 1927
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, c8, b6, a8, c7, a6, b8, d7, e5, f7, h8, g6, f8, h7, g5, e6, d8, b7, a5, c4, a3, b5, a7, c6, b4, d5, e7, g8, f6, e4, g3, h1, 
+Complete tour: 1928
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, c8, b6, a8, c7, a6, b8, d7, e5, f7, h8, g6, e7, g8, f6, d5, b4, c6, a7, b5, a3, c4, a5, b7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 1929
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, c8, b6, a8, c7, d5, b4, a6, b8, c6, a7, b5, a3, c4, a5, b7, d8, e6, g5, h7, f8, d7, e5, f7, h8, g6, e7, g8, f6, e4, g3, h1, 
+Complete tour: 1930
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, c8, b6, a8, c7, d5, b4, a6, b8, c6, a7, b5, a3, c4, a5, b7, d8, e6, f8, d7, e5, f7, h8, g6, e7, g8, f6, h7, g5, e4, g3, h1, 
+Complete tour: 1931
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, c8, b6, a8, c7, d5, b4, a6, b8, d7, e5, c4, a3, b5, a7, c6, a5, b7, d8, e6, f8, h7, f6, g8, e7, g6, h8, f7, g5, e4, g3, h1, 
+Complete tour: 1932
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, c8, b6, a8, c7, d5, b4, a6, b8, d7, e5, c4, a3, b5, a7, c6, a5, b7, d8, e6, f8, h7, g5, f7, h8, g6, e7, g8, f6, e4, g3, h1, 
+Complete tour: 1933
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, c8, b6, a8, c7, d5, b4, a6, b8, d7, e5, c4, a3, b5, a7, c6, a5, b7, d8, f7, h8, g6, e7, g8, f6, h7, f8, e6, g5, e4, g3, h1, 
+Complete tour: 1934
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, c8, b6, a8, c7, d5, b4, a6, b8, d7, e5, g6, h8, f7, g5, h7, f8, e6, d8, b7, a5, c4, a3, b5, a7, c6, e7, g8, f6, e4, g3, h1, 
+Complete tour: 1935
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, c8, b6, a8, c7, d5, b4, a6, b8, d7, e5, g6, h8, f7, d8, b7, a5, c4, a3, b5, a7, c6, e7, g8, f6, h7, f8, e6, g5, e4, g3, h1, 
+Complete tour: 1936
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, c8, b6, a8, c7, d5, b4, a6, b8, d7, e5, f7, h8, g6, f8, e6, d8, b7, a5, c4, a3, b5, a7, c6, e7, g8, f6, h7, g5, e4, g3, h1, 
+Complete tour: 1937
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, c8, b6, a8, c7, d5, b4, a6, b8, d7, e5, f7, h8, g6, f8, h7, f6, g8, e7, c6, a7, b5, a3, c4, a5, b7, d8, e6, g5, e4, g3, h1, 
+Complete tour: 1938
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, c8, b6, a8, c7, d5, b4, a6, b8, d7, e5, f7, h8, g6, f8, h7, g5, e6, d8, b7, a5, c4, a3, b5, a7, c6, e7, g8, f6, e4, g3, h1, 
+Complete tour: 1939
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, c8, b6, a8, c7, d5, b4, a6, b8, d7, e5, c6, a7, b5, a3, c4, a5, b7, d8, e6, f8, h7, f6, g8, e7, g6, h8, f7, g5, e4, g3, h1, 
+Complete tour: 1940
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, c8, b6, a8, c7, d5, b4, a6, b8, d7, e5, c6, a7, b5, a3, c4, a5, b7, d8, e6, f8, h7, g5, f7, h8, g6, e7, g8, f6, e4, g3, h1, 
+Complete tour: 1941
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, c8, b6, a8, c7, d5, b4, a6, b8, d7, e5, c6, a7, b5, a3, c4, a5, b7, d8, f7, h8, g6, e7, g8, f6, h7, f8, e6, g5, e4, g3, h1, 
+Complete tour: 1942
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, c8, b6, a8, c7, d5, b4, a6, b8, d7, f6, g8, e7, g6, h8, f7, e5, c4, a3, b5, a7, c6, a5, b7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 1943
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, c8, b6, a8, c7, d5, b4, a6, b8, d7, f6, g8, e7, g6, h8, f7, e5, c6, a7, b5, a3, c4, a5, b7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 1944
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, c8, b6, a8, c7, d5, b4, a6, b8, d7, f8, e6, d8, b7, a5, c4, a3, b5, a7, c6, e5, f7, h8, g6, e7, g8, f6, h7, g5, e4, g3, h1, 
+Complete tour: 1945
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, c8, b6, a8, c7, d5, b4, a6, b8, d7, f8, e6, d8, b7, a5, c6, a7, b5, a3, c4, e5, f7, h8, g6, e7, g8, f6, h7, g5, e4, g3, h1, 
+Complete tour: 1946
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, c8, b6, a8, c7, d5, b4, a6, b8, d7, f8, h7, f6, g8, e7, g6, h8, f7, e5, c4, a3, b5, a7, c6, a5, b7, d8, e6, g5, e4, g3, h1, 
+Complete tour: 1947
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, c8, b6, a8, c7, d5, b4, a6, b8, d7, f8, h7, f6, g8, e7, g6, h8, f7, e5, c6, a7, b5, a3, c4, a5, b7, d8, e6, g5, e4, g3, h1, 
+Complete tour: 1948
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, c8, b6, a8, c7, d5, b4, a6, b8, d7, f8, h7, g5, e6, d8, b7, a5, c4, a3, b5, a7, c6, e5, f7, h8, g6, e7, g8, f6, e4, g3, h1, 
+Complete tour: 1949
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, c8, b6, a8, c7, d5, b4, a6, b8, d7, f8, h7, g5, e6, d8, b7, a5, c6, a7, b5, a3, c4, e5, f7, h8, g6, e7, g8, f6, e4, g3, h1, 
+Complete tour: 1950
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, c8, b6, a8, c7, d5, f6, g8, e7, g6, h8, f7, e5, d7, b8, a6, b4, c6, a7, b5, a3, c4, a5, b7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 1951
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, c8, b6, a8, c7, d5, e7, g8, f6, h7, f8, e6, d8, b7, a5, c4, a3, b5, a7, c6, b4, a6, b8, d7, e5, g6, h8, f7, g5, e4, g3, h1, 
+Complete tour: 1952
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, c8, b6, a8, c7, d5, e7, g8, f6, h7, f8, g6, h8, f7, e5, d7, b8, a6, b4, c6, a7, b5, a3, c4, a5, b7, d8, e6, g5, e4, g3, h1, 
+Complete tour: 1953
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, c8, b6, a8, c7, e6, g5, h7, f8, d7, e5, g6, h8, f7, d8, b7, a5, c4, a3, b5, a7, c6, b8, a6, b4, d5, e7, g8, f6, e4, g3, h1, 
+Complete tour: 1954
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, c8, b6, a8, c7, e6, g5, h7, f8, g6, h8, f7, d8, b7, a5, c4, a3, b5, a7, c6, e5, d7, b8, a6, b4, d5, e7, g8, f6, e4, g3, h1, 
+Complete tour: 1955
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, c8, b6, a8, c7, e6, g5, h7, f8, g6, h8, f7, d8, b7, a5, c6, a7, b5, a3, c4, e5, d7, b8, a6, b4, d5, e7, g8, f6, e4, g3, h1, 
+Complete tour: 1956
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, c8, b6, a8, c7, e6, f8, d7, e5, g6, h8, f7, d8, b7, a5, c4, a3, b5, a7, c6, b8, a6, b4, d5, e7, g8, f6, h7, g5, e4, g3, h1, 
+Complete tour: 1957
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, c8, b6, a8, c7, e6, f8, g6, h8, f7, d8, b7, a5, c4, a3, b5, a7, c6, e5, d7, b8, a6, b4, d5, e7, g8, f6, h7, g5, e4, g3, h1, 
+Complete tour: 1958
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, c8, b6, a8, c7, e6, f8, g6, h8, f7, d8, b7, a5, c6, a7, b5, a3, c4, e5, d7, b8, a6, b4, d5, e7, g8, f6, h7, g5, e4, g3, h1, 
+Complete tour: 1959
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, c8, b6, a8, c7, e6, d8, b7, a5, c4, a3, b5, a7, c6, e5, g6, h8, f7, g5, h7, f8, d7, b8, a6, b4, d5, e7, g8, f6, e4, g3, h1, 
+Complete tour: 1960
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, c8, b6, a8, c7, e6, d8, b7, a5, c4, a3, b5, a7, c6, e5, f7, h8, g6, f8, d7, b8, a6, b4, d5, e7, g8, f6, h7, g5, e4, g3, h1, 
+Complete tour: 1961
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, c8, b6, a8, c7, e6, d8, b7, a5, c4, a3, b5, a7, c6, e5, f7, h8, g6, e7, g8, f6, d5, b4, a6, b8, d7, f8, h7, g5, e4, g3, h1, 
+Complete tour: 1962
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, c8, b6, a8, c7, e6, d8, b7, a5, c4, a3, b5, a7, c6, e5, d7, b8, a6, b4, d5, e7, g8, f6, h7, f8, g6, h8, f7, g5, e4, g3, h1, 
+Complete tour: 1963
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, c8, b6, a8, c7, e6, d8, b7, a5, c4, a3, b5, a7, c6, e7, g8, f6, d5, b4, a6, b8, d7, e5, f7, h8, g6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 1964
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, c8, b6, a8, c7, e6, d8, b7, a5, c4, a3, b5, a7, c6, b8, a6, b4, d5, f6, g8, e7, g6, h8, f7, e5, d7, f8, h7, g5, e4, g3, h1, 
+Complete tour: 1965
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, c8, b6, a8, c7, e6, d8, b7, a5, c4, a3, b5, a7, c6, b8, a6, b4, d5, e7, g8, f6, h7, f8, d7, e5, g6, h8, f7, g5, e4, g3, h1, 
+Complete tour: 1966
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, c8, b6, a8, c7, e6, d8, b7, a5, c4, a3, b5, a7, c6, b8, a6, b4, d5, e7, g8, f6, d7, e5, f7, h8, g6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 1967
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, c8, b6, a8, c7, e6, d8, b7, a5, c6, a7, b5, a3, c4, e5, g6, h8, f7, g5, h7, f8, d7, b8, a6, b4, d5, e7, g8, f6, e4, g3, h1, 
+Complete tour: 1968
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, c8, b6, a8, c7, e6, d8, b7, a5, c6, a7, b5, a3, c4, e5, f7, h8, g6, f8, d7, b8, a6, b4, d5, e7, g8, f6, h7, g5, e4, g3, h1, 
+Complete tour: 1969
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, c8, b6, a8, c7, e6, d8, b7, a5, c6, a7, b5, a3, c4, e5, f7, h8, g6, e7, g8, f6, d5, b4, a6, b8, d7, f8, h7, g5, e4, g3, h1, 
+Complete tour: 1970
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, c8, b6, a8, c7, e6, d8, b7, a5, c6, a7, b5, a3, c4, e5, d7, b8, a6, b4, d5, e7, g8, f6, h7, f8, g6, h8, f7, g5, e4, g3, h1, 
+Complete tour: 1971
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, c8, e7, g8, f6, d5, b4, a6, b8, c6, a7, b5, a3, c4, a5, b7, d8, e6, c7, a8, b6, d7, e5, f7, h8, g6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 1972
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, c8, e7, g8, f6, d5, b4, a6, b8, c6, a7, b5, a3, c4, a5, b7, d8, f7, h8, g6, e5, d7, b6, a8, c7, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 1973
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, c8, e7, g8, f6, d5, b4, a6, b8, d7, b6, a8, c7, e6, d8, b7, a5, c4, a3, b5, a7, c6, e5, f7, h8, g6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 1974
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, c8, e7, g8, f6, d5, b4, a6, b8, d7, b6, a8, c7, e6, d8, b7, a5, c6, a7, b5, a3, c4, e5, f7, h8, g6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 1975
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, c8, e7, g8, f6, d5, b4, a6, b8, d7, e5, g6, h8, f7, d8, b7, a5, c6, a7, b5, a3, c4, b6, a8, c7, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 1976
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, c8, e7, g8, f6, d5, b6, a8, c7, e6, d8, b7, a5, c4, a3, b5, a7, c6, b4, a6, b8, d7, e5, f7, h8, g6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 1977
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, c8, e7, g8, f6, h7, f8, d7, e5, g6, h8, f7, d8, b7, a5, c4, a3, b5, a7, c6, b8, a6, b4, d5, b6, a8, c7, e6, g5, e4, g3, h1, 
+Complete tour: 1978
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, c8, e7, g8, f6, h7, f8, d7, b8, a6, b4, d5, b6, a8, c7, e6, d8, b7, a5, c4, a3, b5, a7, c6, e5, g6, h8, f7, g5, e4, g3, h1, 
+Complete tour: 1979
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, c8, e7, g8, f6, h7, f8, d7, b8, a6, b4, d5, b6, a8, c7, e6, d8, b7, a5, c6, a7, b5, a3, c4, e5, g6, h8, f7, g5, e4, g3, h1, 
+Complete tour: 1980
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, c8, e7, g8, f6, h7, f8, e6, d8, b7, a5, c4, a3, b5, a7, c6, b4, d5, b6, a8, c7, a6, b8, d7, e5, g6, h8, f7, g5, e4, g3, h1, 
+Complete tour: 1981
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, c8, e7, g8, f6, h7, f8, e6, d8, b7, a5, c4, a3, b5, a7, c6, b8, a6, b4, d5, c7, a8, b6, d7, e5, g6, h8, f7, g5, e4, g3, h1, 
+Complete tour: 1982
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, c8, e7, g8, f6, h7, f8, e6, d8, b7, a5, c6, a7, b5, a3, c4, b6, a8, c7, d5, b4, a6, b8, d7, e5, g6, h8, f7, g5, e4, g3, h1, 
+Complete tour: 1983
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, c8, e7, g8, f6, h7, f8, g6, h8, f7, e5, d7, b6, a8, c7, d5, b4, a6, b8, c6, a7, b5, a3, c4, a5, b7, d8, e6, g5, e4, g3, h1, 
+Complete tour: 1984
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, c8, e7, g8, f6, h7, f8, g6, h8, f7, e5, d7, b8, a6, b4, d5, c7, a8, b6, c4, a3, b5, a7, c6, a5, b7, d8, e6, g5, e4, g3, h1, 
+Complete tour: 1985
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, c8, e7, g8, f6, h7, f8, g6, h8, f7, e5, d7, b8, a6, c7, a8, b6, d5, b4, c6, a7, b5, a3, c4, a5, b7, d8, e6, g5, e4, g3, h1, 
+Complete tour: 1986
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, c8, e7, g8, f6, h7, f8, g6, h8, f7, d8, b7, a5, c4, a3, b5, a7, c6, e5, d7, b8, a6, b4, d5, b6, a8, c7, e6, g5, e4, g3, h1, 
+Complete tour: 1987
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, c8, e7, g8, f6, h7, f8, g6, h8, f7, d8, b7, a5, c6, a7, b5, a3, c4, e5, d7, b8, a6, b4, d5, b6, a8, c7, e6, g5, e4, g3, h1, 
+Complete tour: 1988
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, c8, e7, g8, f6, d7, e5, g6, h8, f7, d8, b7, a5, c4, a3, b5, a7, c6, b8, a6, b4, d5, b6, a8, c7, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 1989
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, c8, e7, g8, f6, d7, b8, a6, b4, d5, b6, a8, c7, e6, d8, b7, a5, c4, a3, b5, a7, c6, e5, f7, h8, g6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 1990
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, c8, e7, g8, f6, d7, b8, a6, b4, d5, b6, a8, c7, e6, d8, b7, a5, c6, a7, b5, a3, c4, e5, f7, h8, g6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 1991
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, c7, a8, b6, d5, b4, a6, b8, c6, a7, c8, e7, g8, f6, h7, f8, d7, e5, g6, h8, f7, d8, e6, g5, e4, g3, h1, 
+Complete tour: 1992
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, c7, a8, b6, d5, b4, a6, b8, c6, a7, c8, e7, g8, f6, d7, e5, g6, h8, f7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 1993
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, c7, a8, b6, d5, b4, a6, b8, d7, e5, g6, h8, f7, g5, h7, f8, e6, d8, c6, a7, c8, e7, g8, f6, e4, g3, h1, 
+Complete tour: 1994
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, c7, a8, b6, d5, b4, a6, b8, d7, e5, g6, h8, f7, d8, c6, a7, c8, e7, g8, f6, h7, f8, e6, g5, e4, g3, h1, 
+Complete tour: 1995
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, c7, a8, b6, d5, b4, a6, b8, d7, e5, f7, h8, g6, f8, e6, d8, c6, a7, c8, e7, g8, f6, h7, g5, e4, g3, h1, 
+Complete tour: 1996
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, c7, a8, b6, d5, b4, a6, b8, d7, e5, f7, h8, g6, f8, h7, f6, g8, e7, c8, a7, c6, d8, e6, g5, e4, g3, h1, 
+Complete tour: 1997
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, c7, a8, b6, d5, b4, a6, b8, d7, e5, f7, h8, g6, f8, h7, g5, e6, d8, c6, a7, c8, e7, g8, f6, e4, g3, h1, 
+Complete tour: 1998
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, c7, a8, b6, d5, b4, a6, b8, d7, e5, c6, a7, c8, e7, g8, f6, h7, f8, g6, h8, f7, d8, e6, g5, e4, g3, h1, 
+Complete tour: 1999
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, c7, a8, b6, d5, b4, a6, b8, d7, f6, g8, e7, c8, a7, c6, e5, g6, h8, f7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2000
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, c7, a8, b6, d5, b4, a6, b8, d7, f8, e6, d8, f7, h8, g6, e5, c6, a7, c8, e7, g8, f6, h7, g5, e4, g3, h1, 
+Complete tour: 2001
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, c7, a8, b6, d5, b4, a6, b8, d7, f8, h7, f6, g8, e7, c8, a7, c6, e5, g6, h8, f7, d8, e6, g5, e4, g3, h1, 
+Complete tour: 2002
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, c7, a8, b6, d5, b4, a6, b8, d7, f8, h7, g5, e6, d8, f7, h8, g6, e5, c6, a7, c8, e7, g8, f6, e4, g3, h1, 
+Complete tour: 2003
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, c7, a8, b6, d5, f6, g8, e7, c8, a7, c6, b4, a6, b8, d7, e5, g6, h8, f7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2004
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, c7, a8, b6, d7, b8, a6, b4, d5, f6, g8, e7, c8, a7, c6, e5, g6, h8, f7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2005
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, c7, a8, b6, c8, a7, c6, e5, g6, h8, f7, d8, e6, g5, h7, f8, d7, b8, a6, b4, d5, e7, g8, f6, e4, g3, h1, 
+Complete tour: 2006
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, c7, a8, b6, c8, a7, c6, e5, g6, h8, f7, d8, e6, f8, d7, b8, a6, b4, d5, e7, g8, f6, h7, g5, e4, g3, h1, 
+Complete tour: 2007
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, c7, a8, b6, c8, a7, c6, e5, d7, b8, a6, b4, d5, f6, g8, e7, g6, h8, f7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2008
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, c7, a8, b6, c8, a7, c6, e5, d7, b8, a6, b4, d5, e7, g8, f6, h7, f8, g6, h8, f7, d8, e6, g5, e4, g3, h1, 
+Complete tour: 2009
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, c7, a8, b6, c8, a7, c6, e7, g8, f6, d5, b4, a6, b8, d7, e5, g6, h8, f7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2010
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, c7, a8, b6, c8, a7, c6, d8, e6, g5, h7, f8, g6, h8, f7, e5, d7, b8, a6, b4, d5, e7, g8, f6, e4, g3, h1, 
+Complete tour: 2011
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, c7, a8, b6, c8, a7, c6, d8, e6, f8, g6, h8, f7, e5, d7, b8, a6, b4, d5, e7, g8, f6, h7, g5, e4, g3, h1, 
+Complete tour: 2012
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, c7, a8, b6, c8, a7, c6, d8, e6, f8, h7, f6, g8, e7, d5, b4, a6, b8, d7, e5, g6, h8, f7, g5, e4, g3, h1, 
+Complete tour: 2013
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, c7, a8, b6, c8, a7, c6, d8, e6, f8, h7, g5, f7, h8, g6, e5, d7, b8, a6, b4, d5, e7, g8, f6, e4, g3, h1, 
+Complete tour: 2014
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, c7, a8, b6, c8, a7, c6, d8, f7, h8, g6, e5, d7, b8, a6, b4, d5, e7, g8, f6, h7, f8, e6, g5, e4, g3, h1, 
+Complete tour: 2015
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, c7, a8, b6, c8, a7, c6, b8, a6, b4, d5, e7, g8, f6, h7, f8, d7, e5, g6, h8, f7, d8, e6, g5, e4, g3, h1, 
+Complete tour: 2016
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, c7, a8, b6, c8, a7, c6, b8, a6, b4, d5, e7, g8, f6, d7, e5, g6, h8, f7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2017
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c6, b4, d5, f6, g8, e7, c8, b6, a8, c7, a6, b8, d7, e5, g6, h8, f7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2018
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c6, e5, g6, h8, f7, d8, e6, g5, h7, f8, d7, b8, a6, b4, d5, c7, a8, b6, c8, e7, g8, f6, e4, g3, h1, 
+Complete tour: 2019
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c6, e5, g6, h8, f7, d8, e6, f8, d7, b8, a6, b4, d5, c7, a8, b6, c8, e7, g8, f6, h7, g5, e4, g3, h1, 
+Complete tour: 2020
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c6, e5, g6, h8, f7, d8, e6, c7, a8, b6, c8, e7, g8, f6, d5, b4, a6, b8, d7, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2021
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c6, e5, d7, b8, a6, b4, d5, f6, g8, e7, c8, b6, a8, c7, e6, d8, f7, h8, g6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2022
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c6, e5, d7, b8, a6, b4, d5, c7, a8, b6, c8, e7, g8, f6, h7, f8, g6, h8, f7, d8, e6, g5, e4, g3, h1, 
+Complete tour: 2023
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c6, d8, e6, g5, h7, f8, g6, h8, f7, e5, d7, b8, a6, b4, d5, c7, a8, b6, c8, e7, g8, f6, e4, g3, h1, 
+Complete tour: 2024
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c6, d8, e6, f8, g6, h8, f7, e5, d7, b8, a6, b4, d5, c7, a8, b6, c8, e7, g8, f6, h7, g5, e4, g3, h1, 
+Complete tour: 2025
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c6, d8, e6, f8, h7, f6, g8, e7, c8, b6, a8, c7, d5, b4, a6, b8, d7, e5, g6, h8, f7, g5, e4, g3, h1, 
+Complete tour: 2026
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c6, d8, e6, f8, h7, g5, f7, h8, g6, e5, d7, b8, a6, b4, d5, c7, a8, b6, c8, e7, g8, f6, e4, g3, h1, 
+Complete tour: 2027
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c6, d8, e6, c7, a8, b6, c8, e7, g8, f6, d5, b4, a6, b8, d7, e5, f7, h8, g6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2028
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c6, d8, f7, h8, g6, e5, d7, b8, a6, b4, d5, f6, g8, e7, c8, b6, a8, c7, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2029
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c6, d8, f7, h8, g6, e5, d7, b8, a6, b4, d5, c7, a8, b6, c8, e7, g8, f6, h7, f8, e6, g5, e4, g3, h1, 
+Complete tour: 2030
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c6, b8, a6, b4, d5, f6, g8, e7, c8, b6, a8, c7, e6, d8, f7, h8, g6, e5, d7, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2031
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c6, b8, a6, b4, d5, c7, a8, b6, c8, e7, g8, f6, h7, f8, d7, e5, g6, h8, f7, d8, e6, g5, e4, g3, h1, 
+Complete tour: 2032
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c6, b8, a6, b4, d5, c7, a8, b6, c8, e7, g8, f6, d7, e5, g6, h8, f7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2033
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c8, b6, a8, c7, a6, b4, d5, f6, g8, e7, c6, b8, d7, e5, g6, h8, f7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2034
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c8, b6, a8, c7, a6, b4, d5, f6, g8, e7, g6, h8, f7, e5, d7, b8, c6, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2035
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c8, b6, a8, c7, a6, b4, d5, e7, g8, f6, h7, f8, d7, b8, c6, e5, g6, h8, f7, d8, e6, g5, e4, g3, h1, 
+Complete tour: 2036
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c8, b6, a8, c7, a6, b4, d5, e7, g8, f6, h7, f8, e6, d8, c6, b8, d7, e5, g6, h8, f7, g5, e4, g3, h1, 
+Complete tour: 2037
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c8, b6, a8, c7, a6, b4, d5, e7, g8, f6, h7, f8, g6, h8, f7, e5, d7, b8, c6, d8, e6, g5, e4, g3, h1, 
+Complete tour: 2038
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c8, b6, a8, c7, a6, b4, d5, e7, g8, f6, d7, b8, c6, e5, g6, h8, f7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2039
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c8, b6, a8, c7, a6, b8, c6, b4, d5, e7, g8, f6, h7, f8, d7, e5, g6, h8, f7, d8, e6, g5, e4, g3, h1, 
+Complete tour: 2040
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c8, b6, a8, c7, a6, b8, c6, b4, d5, e7, g8, f6, d7, e5, g6, h8, f7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2041
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c8, b6, a8, c7, a6, b8, d7, e5, g6, h8, f7, g5, h7, f8, e6, d8, c6, b4, d5, e7, g8, f6, e4, g3, h1, 
+Complete tour: 2042
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c8, b6, a8, c7, a6, b8, d7, e5, g6, h8, f7, d8, c6, b4, d5, e7, g8, f6, h7, f8, e6, g5, e4, g3, h1, 
+Complete tour: 2043
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c8, b6, a8, c7, a6, b8, d7, e5, f7, h8, g6, f8, e6, d8, c6, b4, d5, e7, g8, f6, h7, g5, e4, g3, h1, 
+Complete tour: 2044
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c8, b6, a8, c7, a6, b8, d7, e5, f7, h8, g6, f8, h7, f6, g8, e7, d5, b4, c6, d8, e6, g5, e4, g3, h1, 
+Complete tour: 2045
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c8, b6, a8, c7, a6, b8, d7, e5, f7, h8, g6, f8, h7, g5, e6, d8, c6, b4, d5, e7, g8, f6, e4, g3, h1, 
+Complete tour: 2046
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c8, b6, a8, c7, a6, b8, d7, e5, f7, h8, g6, e7, g8, f6, d5, b4, c6, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2047
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c8, b6, a8, c7, a6, b8, d7, e5, c6, b4, d5, f6, g8, e7, g6, h8, f7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2048
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c8, b6, a8, c7, a6, b8, d7, e5, c6, b4, d5, e7, g8, f6, h7, f8, g6, h8, f7, d8, e6, g5, e4, g3, h1, 
+Complete tour: 2049
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c8, b6, a8, c7, a6, b8, d7, f6, g8, e7, d5, b4, c6, e5, g6, h8, f7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2050
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c8, b6, a8, c7, a6, b8, d7, f8, e6, d8, f7, h8, g6, e5, c6, b4, d5, e7, g8, f6, h7, g5, e4, g3, h1, 
+Complete tour: 2051
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c8, b6, a8, c7, a6, b8, d7, f8, h7, f6, g8, e7, d5, b4, c6, e5, g6, h8, f7, d8, e6, g5, e4, g3, h1, 
+Complete tour: 2052
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c8, b6, a8, c7, a6, b8, d7, f8, h7, g5, e6, d8, f7, h8, g6, e5, c6, b4, d5, e7, g8, f6, e4, g3, h1, 
+Complete tour: 2053
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c8, b6, a8, c7, d5, b4, a6, b8, c6, e5, d7, f6, g8, e7, g6, h8, f7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2054
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c8, b6, a8, c7, d5, b4, a6, b8, c6, e5, d7, f8, e6, d8, f7, h8, g6, e7, g8, f6, h7, g5, e4, g3, h1, 
+Complete tour: 2055
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c8, b6, a8, c7, d5, b4, a6, b8, c6, e5, d7, f8, h7, f6, g8, e7, g6, h8, f7, d8, e6, g5, e4, g3, h1, 
+Complete tour: 2056
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c8, b6, a8, c7, d5, b4, a6, b8, c6, e5, d7, f8, h7, g5, e6, d8, f7, h8, g6, e7, g8, f6, e4, g3, h1, 
+Complete tour: 2057
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c8, b6, a8, c7, d5, b4, a6, b8, c6, e7, g8, f6, h7, f8, d7, e5, g6, h8, f7, d8, e6, g5, e4, g3, h1, 
+Complete tour: 2058
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c8, b6, a8, c7, d5, b4, a6, b8, c6, e7, g8, f6, d7, e5, g6, h8, f7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2059
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c8, b6, a8, c7, d5, b4, a6, b8, c6, d8, e6, g5, h7, f8, d7, e5, f7, h8, g6, e7, g8, f6, e4, g3, h1, 
+Complete tour: 2060
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c8, b6, a8, c7, d5, b4, a6, b8, c6, d8, e6, f8, d7, e5, f7, h8, g6, e7, g8, f6, h7, g5, e4, g3, h1, 
+Complete tour: 2061
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c8, b6, a8, c7, d5, b4, a6, b8, d7, e5, g6, h8, f7, g5, h7, f8, e6, d8, c6, e7, g8, f6, e4, g3, h1, 
+Complete tour: 2062
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c8, b6, a8, c7, d5, b4, a6, b8, d7, e5, g6, h8, f7, d8, c6, e7, g8, f6, h7, f8, e6, g5, e4, g3, h1, 
+Complete tour: 2063
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c8, b6, a8, c7, d5, b4, a6, b8, d7, e5, f7, h8, g6, f8, e6, d8, c6, e7, g8, f6, h7, g5, e4, g3, h1, 
+Complete tour: 2064
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c8, b6, a8, c7, d5, b4, a6, b8, d7, e5, f7, h8, g6, f8, h7, f6, g8, e7, c6, d8, e6, g5, e4, g3, h1, 
+Complete tour: 2065
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c8, b6, a8, c7, d5, b4, a6, b8, d7, e5, f7, h8, g6, f8, h7, g5, e6, d8, c6, e7, g8, f6, e4, g3, h1, 
+Complete tour: 2066
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c8, b6, a8, c7, d5, b4, a6, b8, d7, e5, c6, e7, g8, f6, h7, f8, g6, h8, f7, d8, e6, g5, e4, g3, h1, 
+Complete tour: 2067
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c8, b6, a8, c7, d5, b4, a6, b8, d7, e5, c6, d8, e6, f8, h7, f6, g8, e7, g6, h8, f7, g5, e4, g3, h1, 
+Complete tour: 2068
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c8, b6, a8, c7, d5, b4, a6, b8, d7, e5, c6, d8, e6, f8, h7, g5, f7, h8, g6, e7, g8, f6, e4, g3, h1, 
+Complete tour: 2069
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c8, b6, a8, c7, d5, b4, a6, b8, d7, e5, c6, d8, f7, h8, g6, e7, g8, f6, h7, f8, e6, g5, e4, g3, h1, 
+Complete tour: 2070
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c8, b6, a8, c7, d5, b4, a6, b8, d7, f6, g8, e7, c6, e5, g6, h8, f7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2071
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c8, b6, a8, c7, d5, b4, a6, b8, d7, f6, g8, e7, g6, h8, f7, e5, c6, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2072
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c8, b6, a8, c7, d5, b4, a6, b8, d7, f8, e6, d8, c6, e5, f7, h8, g6, e7, g8, f6, h7, g5, e4, g3, h1, 
+Complete tour: 2073
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c8, b6, a8, c7, d5, b4, a6, b8, d7, f8, e6, d8, f7, h8, g6, e5, c6, e7, g8, f6, h7, g5, e4, g3, h1, 
+Complete tour: 2074
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c8, b6, a8, c7, d5, b4, a6, b8, d7, f8, h7, f6, g8, e7, c6, e5, g6, h8, f7, d8, e6, g5, e4, g3, h1, 
+Complete tour: 2075
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c8, b6, a8, c7, d5, b4, a6, b8, d7, f8, h7, f6, g8, e7, g6, h8, f7, e5, c6, d8, e6, g5, e4, g3, h1, 
+Complete tour: 2076
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c8, b6, a8, c7, d5, b4, a6, b8, d7, f8, h7, g5, e6, d8, c6, e5, f7, h8, g6, e7, g8, f6, e4, g3, h1, 
+Complete tour: 2077
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c8, b6, a8, c7, d5, b4, a6, b8, d7, f8, h7, g5, e6, d8, f7, h8, g6, e5, c6, e7, g8, f6, e4, g3, h1, 
+Complete tour: 2078
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c8, b6, a8, c7, d5, f6, g8, e7, c6, b4, a6, b8, d7, e5, g6, h8, f7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2079
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c8, b6, a8, c7, d5, f6, g8, e7, g6, h8, f7, e5, d7, b8, a6, b4, c6, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2080
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c8, b6, a8, c7, d5, e7, g8, f6, h7, f8, d7, b8, a6, b4, c6, e5, g6, h8, f7, d8, e6, g5, e4, g3, h1, 
+Complete tour: 2081
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c8, b6, a8, c7, d5, e7, g8, f6, h7, f8, e6, d8, c6, b4, a6, b8, d7, e5, g6, h8, f7, g5, e4, g3, h1, 
+Complete tour: 2082
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c8, b6, a8, c7, d5, e7, g8, f6, h7, f8, g6, h8, f7, e5, d7, b8, a6, b4, c6, d8, e6, g5, e4, g3, h1, 
+Complete tour: 2083
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c8, b6, a8, c7, d5, e7, g8, f6, d7, b8, a6, b4, c6, e5, g6, h8, f7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2084
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c8, b6, a8, c7, e6, g5, h7, f8, d7, e5, g6, h8, f7, d8, c6, b8, a6, b4, d5, e7, g8, f6, e4, g3, h1, 
+Complete tour: 2085
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c8, b6, a8, c7, e6, g5, h7, f8, g6, h8, f7, d8, c6, e5, d7, b8, a6, b4, d5, e7, g8, f6, e4, g3, h1, 
+Complete tour: 2086
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c8, b6, a8, c7, e6, f8, d7, e5, g6, h8, f7, d8, c6, b8, a6, b4, d5, e7, g8, f6, h7, g5, e4, g3, h1, 
+Complete tour: 2087
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c8, b6, a8, c7, e6, f8, g6, h8, f7, d8, c6, e5, d7, b8, a6, b4, d5, e7, g8, f6, h7, g5, e4, g3, h1, 
+Complete tour: 2088
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c8, b6, a8, c7, e6, d8, c6, e5, g6, h8, f7, g5, h7, f8, d7, b8, a6, b4, d5, e7, g8, f6, e4, g3, h1, 
+Complete tour: 2089
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c8, b6, a8, c7, e6, d8, c6, e5, f7, h8, g6, f8, d7, b8, a6, b4, d5, e7, g8, f6, h7, g5, e4, g3, h1, 
+Complete tour: 2090
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c8, b6, a8, c7, e6, d8, c6, e5, f7, h8, g6, e7, g8, f6, d5, b4, a6, b8, d7, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2091
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c8, b6, a8, c7, e6, d8, c6, e5, d7, b8, a6, b4, d5, e7, g8, f6, h7, f8, g6, h8, f7, g5, e4, g3, h1, 
+Complete tour: 2092
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c8, b6, a8, c7, e6, d8, c6, e7, g8, f6, d5, b4, a6, b8, d7, e5, f7, h8, g6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2093
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c8, b6, a8, c7, e6, d8, c6, b8, a6, b4, d5, f6, g8, e7, g6, h8, f7, e5, d7, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2094
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c8, b6, a8, c7, e6, d8, c6, b8, a6, b4, d5, e7, g8, f6, h7, f8, d7, e5, g6, h8, f7, g5, e4, g3, h1, 
+Complete tour: 2095
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c8, b6, a8, c7, e6, d8, c6, b8, a6, b4, d5, e7, g8, f6, d7, e5, f7, h8, g6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2096
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c8, b6, a8, c7, e6, d8, f7, h8, g6, e5, c6, e7, g8, f6, d5, b4, a6, b8, d7, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2097
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c8, b6, a8, c7, e6, d8, f7, h8, g6, e5, c6, b8, a6, b4, d5, e7, g8, f6, d7, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2098
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c8, b6, a8, c7, e6, d8, f7, h8, g6, f8, d7, e5, c6, b8, a6, b4, d5, e7, g8, f6, h7, g5, e4, g3, h1, 
+Complete tour: 2099
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c8, b6, a8, c7, e6, d8, f7, h8, g6, e7, g8, f6, d5, b4, a6, b8, c6, e5, d7, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2100
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c8, e7, g8, f6, d5, b4, c6, b8, a6, c7, a8, b6, d7, e5, g6, h8, f7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2101
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c8, e7, g8, f6, d5, b4, a6, c7, a8, b6, d7, b8, c6, e5, g6, h8, f7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2102
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c8, e7, g8, f6, d5, b4, a6, b8, c6, e5, g6, h8, f7, d8, e6, c7, a8, b6, d7, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2103
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c8, e7, g8, f6, d5, b4, a6, b8, c6, e5, d7, b6, a8, c7, e6, d8, f7, h8, g6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2104
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c8, e7, g8, f6, d5, b4, a6, b8, c6, d8, e6, c7, a8, b6, d7, e5, f7, h8, g6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2105
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c8, e7, g8, f6, d5, b4, a6, b8, c6, d8, f7, h8, g6, e5, d7, b6, a8, c7, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2106
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c8, e7, g8, f6, d5, b4, a6, b8, d7, b6, a8, c7, e6, d8, c6, e5, f7, h8, g6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2107
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c8, e7, g8, f6, d5, c7, a8, b6, d7, b8, a6, b4, c6, e5, g6, h8, f7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2108
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c8, e7, g8, f6, d5, b6, a8, c7, a6, b4, c6, b8, d7, e5, g6, h8, f7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2109
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c8, e7, g8, f6, d5, b6, a8, c7, e6, d8, c6, b4, a6, b8, d7, e5, f7, h8, g6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2110
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c8, e7, g8, f6, d5, b6, a8, c7, e6, d8, f7, h8, g6, e5, c6, b4, a6, b8, d7, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2111
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c8, e7, g8, f6, h7, f8, d7, b6, a8, c7, d5, b4, a6, b8, c6, e5, g6, h8, f7, d8, e6, g5, e4, g3, h1, 
+Complete tour: 2112
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c8, e7, g8, f6, h7, f8, d7, e5, g6, h8, f7, d8, c6, b8, a6, b4, d5, b6, a8, c7, e6, g5, e4, g3, h1, 
+Complete tour: 2113
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c8, e7, g8, f6, h7, f8, d7, b8, a6, b4, d5, b6, a8, c7, e6, d8, c6, e5, g6, h8, f7, g5, e4, g3, h1, 
+Complete tour: 2114
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c8, e7, g8, f6, h7, f8, d7, b8, a6, c7, a8, b6, d5, b4, c6, e5, g6, h8, f7, d8, e6, g5, e4, g3, h1, 
+Complete tour: 2115
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c8, e7, g8, f6, h7, f8, e6, d8, c6, b4, d5, b6, a8, c7, a6, b8, d7, e5, g6, h8, f7, g5, e4, g3, h1, 
+Complete tour: 2116
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c8, e7, g8, f6, h7, f8, e6, d8, c6, b8, a6, b4, d5, c7, a8, b6, d7, e5, g6, h8, f7, g5, e4, g3, h1, 
+Complete tour: 2117
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c8, e7, g8, f6, h7, f8, g6, h8, f7, e5, d7, b6, a8, c7, d5, b4, a6, b8, c6, d8, e6, g5, e4, g3, h1, 
+Complete tour: 2118
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c8, e7, g8, f6, h7, f8, g6, h8, f7, e5, d7, b8, a6, c7, a8, b6, d5, b4, c6, d8, e6, g5, e4, g3, h1, 
+Complete tour: 2119
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c8, e7, g8, f6, h7, f8, g6, h8, f7, d8, c6, e5, d7, b8, a6, b4, d5, b6, a8, c7, e6, g5, e4, g3, h1, 
+Complete tour: 2120
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c8, e7, g8, f6, d7, b6, a8, c7, d5, b4, a6, b8, c6, e5, g6, h8, f7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2121
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c8, e7, g8, f6, d7, e5, g6, h8, f7, d8, c6, b8, a6, b4, d5, b6, a8, c7, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2122
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c8, e7, g8, f6, d7, e5, c6, b8, a6, b4, d5, b6, a8, c7, e6, d8, f7, h8, g6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2123
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c8, e7, g8, f6, d7, b8, a6, b4, d5, b6, a8, c7, e6, d8, c6, e5, f7, h8, g6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2124
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c4, a3, b5, a7, c8, e7, g8, f6, d7, b8, a6, c7, a8, b6, d5, b4, c6, e5, g6, h8, f7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2125
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c6, b4, d5, f6, g8, e7, c8, a7, b5, a3, c4, b6, a8, c7, a6, b8, d7, e5, g6, h8, f7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2126
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c6, b4, d5, e7, g8, f6, h7, f8, d7, b8, a6, c7, a8, b6, c8, a7, b5, a3, c4, e5, g6, h8, f7, d8, e6, g5, e4, g3, h1, 
+Complete tour: 2127
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c6, b4, d5, e7, g8, f6, d7, b8, a6, c7, a8, b6, c8, a7, b5, a3, c4, e5, g6, h8, f7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2128
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c6, b4, d5, b6, a8, c7, a6, b8, d7, e5, c4, a3, b5, a7, c8, e7, g8, f6, h7, f8, g6, h8, f7, d8, e6, g5, e4, g3, h1, 
+Complete tour: 2129
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c6, b4, d5, b6, a8, c7, a6, b8, d7, f6, g8, e7, c8, a7, b5, a3, c4, e5, g6, h8, f7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2130
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c6, b4, d5, b6, a8, c7, a6, b8, d7, f8, e6, d8, f7, h8, g6, e5, c4, a3, b5, a7, c8, e7, g8, f6, h7, g5, e4, g3, h1, 
+Complete tour: 2131
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c6, b4, d5, b6, a8, c7, a6, b8, d7, f8, h7, f6, g8, e7, c8, a7, b5, a3, c4, e5, g6, h8, f7, d8, e6, g5, e4, g3, h1, 
+Complete tour: 2132
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c6, b4, d5, b6, a8, c7, a6, b8, d7, f8, h7, g5, e6, d8, f7, h8, g6, e5, c4, a3, b5, a7, c8, e7, g8, f6, e4, g3, h1, 
+Complete tour: 2133
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c6, b4, a6, b8, d7, b6, a8, c7, d5, f6, g8, e7, c8, a7, b5, a3, c4, e5, g6, h8, f7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2134
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c6, b4, a6, b8, d7, e5, c4, a3, b5, a7, c8, b6, a8, c7, d5, f6, g8, e7, g6, h8, f7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2135
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c6, b4, a6, b8, d7, e5, c4, a3, b5, a7, c8, b6, a8, c7, d5, e7, g8, f6, h7, f8, g6, h8, f7, d8, e6, g5, e4, g3, h1, 
+Complete tour: 2136
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c6, b4, a6, b8, d7, e5, c4, a3, b5, a7, c8, e7, g8, f6, d5, b6, a8, c7, e6, d8, f7, h8, g6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2137
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c6, b4, a6, b8, d7, f6, g8, e7, d5, c7, a8, b6, c8, a7, b5, a3, c4, e5, g6, h8, f7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2138
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c6, b4, a6, b8, d7, f8, e6, d8, f7, h8, g6, e5, c4, a3, b5, a7, c8, b6, a8, c7, d5, e7, g8, f6, h7, g5, e4, g3, h1, 
+Complete tour: 2139
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c6, b4, a6, b8, d7, f8, h7, f6, g8, e7, d5, c7, a8, b6, c8, a7, b5, a3, c4, e5, g6, h8, f7, d8, e6, g5, e4, g3, h1, 
+Complete tour: 2140
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c6, b4, a6, b8, d7, f8, h7, g5, e6, d8, f7, h8, g6, e5, c4, a3, b5, a7, c8, b6, a8, c7, d5, e7, g8, f6, e4, g3, h1, 
+Complete tour: 2141
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c6, e5, c4, a3, b5, a7, c8, b6, a8, c7, d5, b4, a6, b8, d7, f6, g8, e7, g6, h8, f7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2142
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c6, e5, c4, a3, b5, a7, c8, b6, a8, c7, d5, b4, a6, b8, d7, f8, e6, d8, f7, h8, g6, e7, g8, f6, h7, g5, e4, g3, h1, 
+Complete tour: 2143
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c6, e5, c4, a3, b5, a7, c8, b6, a8, c7, d5, b4, a6, b8, d7, f8, h7, f6, g8, e7, g6, h8, f7, d8, e6, g5, e4, g3, h1, 
+Complete tour: 2144
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c6, e5, c4, a3, b5, a7, c8, b6, a8, c7, d5, b4, a6, b8, d7, f8, h7, g5, e6, d8, f7, h8, g6, e7, g8, f6, e4, g3, h1, 
+Complete tour: 2145
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c6, e5, c4, a3, b5, a7, c8, b6, a8, c7, e6, d8, f7, h8, g6, f8, d7, b8, a6, b4, d5, e7, g8, f6, h7, g5, e4, g3, h1, 
+Complete tour: 2146
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c6, e5, c4, a3, b5, a7, c8, b6, a8, c7, e6, d8, f7, h8, g6, e7, g8, f6, d5, b4, a6, b8, d7, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2147
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c6, e5, c4, a3, b5, a7, c8, e7, g8, f6, d5, b4, a6, b8, d7, b6, a8, c7, e6, d8, f7, h8, g6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2148
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c6, e5, c4, a3, b5, a7, c8, e7, g8, f6, d7, b8, a6, b4, d5, b6, a8, c7, e6, d8, f7, h8, g6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2149
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c6, e5, g6, h8, f7, d8, e6, g5, h7, f8, d7, b8, a6, b4, d5, c7, a8, b6, c4, a3, b5, a7, c8, e7, g8, f6, e4, g3, h1, 
+Complete tour: 2150
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c6, e5, g6, h8, f7, d8, e6, f8, d7, b8, a6, b4, d5, c7, a8, b6, c4, a3, b5, a7, c8, e7, g8, f6, h7, g5, e4, g3, h1, 
+Complete tour: 2151
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c6, e5, g6, h8, f7, d8, e6, c7, a8, b6, c4, a3, b5, a7, c8, e7, g8, f6, d5, b4, a6, b8, d7, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2152
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c6, e5, d7, b8, a6, b4, d5, f6, g8, e7, c8, a7, b5, a3, c4, b6, a8, c7, e6, d8, f7, h8, g6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2153
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c6, e5, d7, b8, a6, b4, d5, c7, a8, b6, c4, a3, b5, a7, c8, e7, g8, f6, h7, f8, g6, h8, f7, d8, e6, g5, e4, g3, h1, 
+Complete tour: 2154
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c6, e7, g8, f6, d5, b4, a6, b8, d7, e5, c4, a3, b5, a7, c8, b6, a8, c7, e6, d8, f7, h8, g6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2155
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c6, e7, g8, f6, h7, f8, d7, b8, a6, b4, d5, c7, a8, b6, c8, a7, b5, a3, c4, e5, g6, h8, f7, d8, e6, g5, e4, g3, h1, 
+Complete tour: 2156
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c6, e7, g8, f6, d7, b8, a6, b4, d5, c7, a8, b6, c8, a7, b5, a3, c4, e5, g6, h8, f7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2157
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c6, d8, e6, g5, h7, f8, d7, b8, a6, b4, d5, c7, a8, b6, c8, a7, b5, a3, c4, e5, f7, h8, g6, e7, g8, f6, e4, g3, h1, 
+Complete tour: 2158
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c6, d8, e6, g5, h7, f8, g6, h8, f7, e5, d7, b8, a6, b4, d5, c7, a8, b6, c4, a3, b5, a7, c8, e7, g8, f6, e4, g3, h1, 
+Complete tour: 2159
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c6, d8, e6, f8, d7, b8, a6, b4, d5, c7, a8, b6, c8, a7, b5, a3, c4, e5, f7, h8, g6, e7, g8, f6, h7, g5, e4, g3, h1, 
+Complete tour: 2160
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c6, d8, e6, f8, g6, h8, f7, e5, d7, b8, a6, b4, d5, c7, a8, b6, c4, a3, b5, a7, c8, e7, g8, f6, h7, g5, e4, g3, h1, 
+Complete tour: 2161
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c6, d8, e6, f8, h7, f6, g8, e7, c8, a7, b5, a3, c4, b6, a8, c7, d5, b4, a6, b8, d7, e5, g6, h8, f7, g5, e4, g3, h1, 
+Complete tour: 2162
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c6, d8, e6, f8, h7, g5, f7, h8, g6, e5, d7, b8, a6, b4, d5, c7, a8, b6, c4, a3, b5, a7, c8, e7, g8, f6, e4, g3, h1, 
+Complete tour: 2163
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c6, d8, e6, c7, a8, b6, c4, a3, b5, a7, c8, e7, g8, f6, d5, b4, a6, b8, d7, e5, f7, h8, g6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2164
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c6, d8, e6, c7, a8, b6, d5, b4, a6, b8, d7, e5, c4, a3, b5, a7, c8, e7, g8, f6, h7, f8, g6, h8, f7, g5, e4, g3, h1, 
+Complete tour: 2165
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c6, d8, e6, c7, a8, b6, d5, b4, a6, b8, d7, f6, g8, e7, c8, a7, b5, a3, c4, e5, f7, h8, g6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2166
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c6, d8, e6, c7, a8, b6, d5, b4, a6, b8, d7, f8, g6, h8, f7, e5, c4, a3, b5, a7, c8, e7, g8, f6, h7, g5, e4, g3, h1, 
+Complete tour: 2167
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c6, d8, e6, c7, a8, b6, d5, b4, a6, b8, d7, f8, h7, f6, g8, e7, c8, a7, b5, a3, c4, e5, g6, h8, f7, g5, e4, g3, h1, 
+Complete tour: 2168
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c6, d8, e6, c7, a8, b6, d5, b4, a6, b8, d7, f8, h7, g5, f7, h8, g6, e5, c4, a3, b5, a7, c8, e7, g8, f6, e4, g3, h1, 
+Complete tour: 2169
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c6, d8, e6, c7, a8, b6, d7, b8, a6, b4, d5, f6, g8, e7, c8, a7, b5, a3, c4, e5, f7, h8, g6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2170
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c6, d8, e6, c7, a8, b6, c8, a7, b5, a3, c4, e5, g6, h8, f7, g5, h7, f8, d7, b8, a6, b4, d5, e7, g8, f6, e4, g3, h1, 
+Complete tour: 2171
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c6, d8, e6, c7, a8, b6, c8, a7, b5, a3, c4, e5, f7, h8, g6, f8, d7, b8, a6, b4, d5, e7, g8, f6, h7, g5, e4, g3, h1, 
+Complete tour: 2172
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c6, d8, e6, c7, a8, b6, c8, a7, b5, a3, c4, e5, f7, h8, g6, e7, g8, f6, d5, b4, a6, b8, d7, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2173
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c6, d8, e6, c7, a8, b6, c8, a7, b5, a3, c4, e5, d7, b8, a6, b4, d5, e7, g8, f6, h7, f8, g6, h8, f7, g5, e4, g3, h1, 
+Complete tour: 2174
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c6, d8, f7, h8, g6, e5, c4, a3, b5, a7, c8, b6, a8, c7, e6, g5, h7, f8, d7, b8, a6, b4, d5, e7, g8, f6, e4, g3, h1, 
+Complete tour: 2175
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c6, d8, f7, h8, g6, e5, c4, a3, b5, a7, c8, b6, a8, c7, e6, f8, d7, b8, a6, b4, d5, e7, g8, f6, h7, g5, e4, g3, h1, 
+Complete tour: 2176
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c6, d8, f7, h8, g6, e5, c4, a3, b5, a7, c8, e7, g8, f6, d5, b4, a6, b8, d7, b6, a8, c7, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2177
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c6, d8, f7, h8, g6, e5, c4, a3, b5, a7, c8, e7, g8, f6, h7, f8, d7, b8, a6, b4, d5, b6, a8, c7, e6, g5, e4, g3, h1, 
+Complete tour: 2178
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c6, d8, f7, h8, g6, e5, c4, a3, b5, a7, c8, e7, g8, f6, d7, b8, a6, b4, d5, b6, a8, c7, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2179
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c6, d8, f7, h8, g6, e5, d7, b8, a6, b4, d5, f6, g8, e7, c8, a7, b5, a3, c4, b6, a8, c7, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2180
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c6, d8, f7, h8, g6, e5, d7, b8, a6, b4, d5, c7, a8, b6, c4, a3, b5, a7, c8, e7, g8, f6, h7, f8, e6, g5, e4, g3, h1, 
+Complete tour: 2181
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c6, d8, f7, h8, g6, f8, e6, c7, a8, b6, d5, b4, a6, b8, d7, e5, c4, a3, b5, a7, c8, e7, g8, f6, h7, g5, e4, g3, h1, 
+Complete tour: 2182
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c6, d8, f7, h8, g6, f8, e6, c7, a8, b6, c8, a7, b5, a3, c4, e5, d7, b8, a6, b4, d5, e7, g8, f6, h7, g5, e4, g3, h1, 
+Complete tour: 2183
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c6, d8, f7, h8, g6, f8, h7, f6, g8, e7, d5, b4, a6, b8, d7, e5, c4, a3, b5, a7, c8, b6, a8, c7, e6, g5, e4, g3, h1, 
+Complete tour: 2184
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c6, d8, f7, h8, g6, f8, h7, f6, g8, e7, c8, a7, b5, a3, c4, e5, d7, b8, a6, b4, d5, b6, a8, c7, e6, g5, e4, g3, h1, 
+Complete tour: 2185
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c6, d8, f7, h8, g6, f8, h7, g5, e6, c7, a8, b6, d5, b4, a6, b8, d7, e5, c4, a3, b5, a7, c8, e7, g8, f6, e4, g3, h1, 
+Complete tour: 2186
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c6, d8, f7, h8, g6, f8, h7, g5, e6, c7, a8, b6, c8, a7, b5, a3, c4, e5, d7, b8, a6, b4, d5, e7, g8, f6, e4, g3, h1, 
+Complete tour: 2187
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c6, d8, f7, h8, g6, e7, g8, f6, d5, b4, a6, b8, d7, e5, c4, a3, b5, a7, c8, b6, a8, c7, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2188
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c6, b8, a6, b4, d5, f6, g8, e7, g6, h8, f7, d8, e6, c7, a8, b6, c8, a7, b5, a3, c4, e5, d7, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2189
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c6, b8, a6, b4, d5, f6, g8, e7, c8, a7, b5, a3, c4, e5, g6, h8, f7, d8, e6, c7, a8, b6, d7, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2190
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c6, b8, a6, b4, d5, f6, g8, e7, c8, a7, b5, a3, c4, e5, d7, b6, a8, c7, e6, d8, f7, h8, g6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2191
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c6, b8, a6, b4, d5, f6, g8, e7, c8, a7, b5, a3, c4, b6, a8, c7, e6, d8, f7, h8, g6, e5, d7, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2192
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c6, b8, a6, b4, d5, e7, g8, f6, d7, e5, c4, a3, b5, a7, c8, b6, a8, c7, e6, d8, f7, h8, g6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2193
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c6, b8, a6, b4, d5, c7, a8, b6, c4, a3, b5, a7, c8, e7, g8, f6, h7, f8, d7, e5, g6, h8, f7, d8, e6, g5, e4, g3, h1, 
+Complete tour: 2194
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c6, b8, a6, b4, d5, c7, a8, b6, c4, a3, b5, a7, c8, e7, g8, f6, d7, e5, g6, h8, f7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2195
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c6, b8, a6, b4, d5, c7, a8, b6, d7, e5, c4, a3, b5, a7, c8, e7, g8, f6, h7, f8, g6, h8, f7, d8, e6, g5, e4, g3, h1, 
+Complete tour: 2196
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c6, b8, a6, b4, d5, c7, a8, b6, d7, f6, g8, e7, c8, a7, b5, a3, c4, e5, g6, h8, f7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2197
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c6, b8, a6, b4, d5, c7, a8, b6, d7, f8, e6, d8, f7, h8, g6, e5, c4, a3, b5, a7, c8, e7, g8, f6, h7, g5, e4, g3, h1, 
+Complete tour: 2198
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c6, b8, a6, b4, d5, c7, a8, b6, d7, f8, h7, f6, g8, e7, c8, a7, b5, a3, c4, e5, g6, h8, f7, d8, e6, g5, e4, g3, h1, 
+Complete tour: 2199
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c6, b8, a6, b4, d5, c7, a8, b6, d7, f8, h7, g5, e6, d8, f7, h8, g6, e5, c4, a3, b5, a7, c8, e7, g8, f6, e4, g3, h1, 
+Complete tour: 2200
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c6, b8, a6, b4, d5, c7, a8, b6, c8, a7, b5, a3, c4, e5, d7, f6, g8, e7, g6, h8, f7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2201
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c6, b8, a6, b4, d5, c7, a8, b6, c8, a7, b5, a3, c4, e5, d7, f8, e6, d8, f7, h8, g6, e7, g8, f6, h7, g5, e4, g3, h1, 
+Complete tour: 2202
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c6, b8, a6, b4, d5, c7, a8, b6, c8, a7, b5, a3, c4, e5, d7, f8, h7, f6, g8, e7, g6, h8, f7, d8, e6, g5, e4, g3, h1, 
+Complete tour: 2203
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c6, b8, a6, b4, d5, c7, a8, b6, c8, a7, b5, a3, c4, e5, d7, f8, h7, g5, e6, d8, f7, h8, g6, e7, g8, f6, e4, g3, h1, 
+Complete tour: 2204
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c6, b8, a6, b4, d5, b6, a8, c7, e6, d8, f7, h8, g6, e5, c4, a3, b5, a7, c8, e7, g8, f6, d7, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2205
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c6, b8, a6, b4, d5, b6, a8, c7, e6, d8, f7, h8, g6, f8, d7, e5, c4, a3, b5, a7, c8, e7, g8, f6, h7, g5, e4, g3, h1, 
+Complete tour: 2206
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c6, b8, d7, b6, a8, c7, a6, b4, d5, f6, g8, e7, c8, a7, b5, a3, c4, e5, g6, h8, f7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2207
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c6, b8, d7, e5, c4, a3, b5, a7, c8, b6, a8, c7, a6, b4, d5, f6, g8, e7, g6, h8, f7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2208
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c6, b8, d7, e5, c4, a3, b5, a7, c8, b6, a8, c7, a6, b4, d5, e7, g8, f6, h7, f8, g6, h8, f7, d8, e6, g5, e4, g3, h1, 
+Complete tour: 2209
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c6, b8, d7, f6, g8, e7, d5, b4, a6, c7, a8, b6, c8, a7, b5, a3, c4, e5, g6, h8, f7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2210
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c6, b8, d7, f8, e6, d8, f7, h8, g6, e5, c4, a3, b5, a7, c8, b6, a8, c7, a6, b4, d5, e7, g8, f6, h7, g5, e4, g3, h1, 
+Complete tour: 2211
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c6, b8, d7, f8, h7, f6, g8, e7, d5, b4, a6, c7, a8, b6, c8, a7, b5, a3, c4, e5, g6, h8, f7, d8, e6, g5, e4, g3, h1, 
+Complete tour: 2212
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c6, b8, d7, f8, h7, g5, e6, d8, f7, h8, g6, e5, c4, a3, b5, a7, c8, b6, a8, c7, a6, b4, d5, e7, g8, f6, e4, g3, h1, 
+Complete tour: 2213
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c6, a7, b5, a3, c4, e5, g6, h8, f7, d8, e6, g5, h7, f8, d7, b8, a6, b4, d5, c7, a8, b6, c8, e7, g8, f6, e4, g3, h1, 
+Complete tour: 2214
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c6, a7, b5, a3, c4, e5, g6, h8, f7, d8, e6, f8, d7, b8, a6, b4, d5, c7, a8, b6, c8, e7, g8, f6, h7, g5, e4, g3, h1, 
+Complete tour: 2215
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c6, a7, b5, a3, c4, e5, g6, h8, f7, d8, e6, c7, a8, b6, c8, e7, g8, f6, d5, b4, a6, b8, d7, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2216
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c6, a7, b5, a3, c4, e5, d7, b8, a6, b4, d5, f6, g8, e7, c8, b6, a8, c7, e6, d8, f7, h8, g6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2217
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c6, a7, b5, a3, c4, e5, d7, b8, a6, b4, d5, c7, a8, b6, c8, e7, g8, f6, h7, f8, g6, h8, f7, d8, e6, g5, e4, g3, h1, 
+Complete tour: 2218
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c6, a7, c8, b6, a8, c7, b5, a3, c4, e5, g6, h8, f7, d8, e6, g5, h7, f8, d7, b8, a6, b4, d5, e7, g8, f6, e4, g3, h1, 
+Complete tour: 2219
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c6, a7, c8, b6, a8, c7, b5, a3, c4, e5, g6, h8, f7, d8, e6, f8, d7, b8, a6, b4, d5, e7, g8, f6, h7, g5, e4, g3, h1, 
+Complete tour: 2220
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c6, a7, c8, b6, a8, c7, b5, a3, c4, e5, d7, b8, a6, b4, d5, f6, g8, e7, g6, h8, f7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2221
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c6, a7, c8, b6, a8, c7, b5, a3, c4, e5, d7, b8, a6, b4, d5, e7, g8, f6, h7, f8, g6, h8, f7, d8, e6, g5, e4, g3, h1, 
+Complete tour: 2222
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c6, a7, c8, e7, g8, f6, d5, b4, a6, b8, d7, b6, a8, c7, b5, a3, c4, e5, g6, h8, f7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2223
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c6, a7, c8, e7, g8, f6, h7, f8, d7, b8, a6, b4, d5, b6, a8, c7, b5, a3, c4, e5, g6, h8, f7, d8, e6, g5, e4, g3, h1, 
+Complete tour: 2224
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, a5, c6, a7, c8, e7, g8, f6, d7, b8, a6, b4, d5, b6, a8, c7, b5, a3, c4, e5, g6, h8, f7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2225
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, d8, c6, a5, c4, a3, b5, a7, c8, b6, a8, c7, d5, b4, a6, b8, d7, e5, f7, h8, g6, e7, g8, f6, h7, f8, e6, g5, e4, g3, h1, 
+Complete tour: 2226
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, d8, c6, a5, c4, a3, b5, a7, c8, b6, a8, c7, e6, g5, h7, f8, g6, h8, f7, e5, d7, b8, a6, b4, d5, e7, g8, f6, e4, g3, h1, 
+Complete tour: 2227
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, d8, c6, a5, c4, a3, b5, a7, c8, b6, a8, c7, e6, f8, g6, h8, f7, e5, d7, b8, a6, b4, d5, e7, g8, f6, h7, g5, e4, g3, h1, 
+Complete tour: 2228
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, d8, c6, a5, c4, a3, b5, a7, c8, b6, a8, c7, e6, f8, h7, f6, g8, e7, d5, b4, a6, b8, d7, e5, g6, h8, f7, g5, e4, g3, h1, 
+Complete tour: 2229
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, d8, c6, a5, c4, a3, b5, a7, c8, b6, a8, c7, e6, f8, h7, g5, f7, h8, g6, e5, d7, b8, a6, b4, d5, e7, g8, f6, e4, g3, h1, 
+Complete tour: 2230
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, d8, c6, a5, c4, a3, b5, a7, c8, e7, g8, f6, h7, f8, e6, c7, a8, b6, d5, b4, a6, b8, d7, e5, g6, h8, f7, g5, e4, g3, h1, 
+Complete tour: 2231
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, d8, c6, a5, c4, a3, b5, a7, c8, e7, g8, f6, h7, f8, g6, h8, f7, e5, d7, b8, a6, b4, d5, b6, a8, c7, e6, g5, e4, g3, h1, 
+Complete tour: 2232
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, d8, e6, g5, h7, f8, d7, b8, a6, b4, d5, c7, a8, b6, c8, a7, b5, a3, c4, a5, c6, e5, f7, h8, g6, e7, g8, f6, e4, g3, h1, 
+Complete tour: 2233
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, d8, e6, g5, h7, f8, g6, h8, f7, e5, d7, b6, a8, c7, d5, b4, a6, b8, c6, a5, c4, a3, b5, a7, c8, e7, g8, f6, e4, g3, h1, 
+Complete tour: 2234
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, d8, e6, g5, h7, f8, g6, h8, f7, e5, d7, b8, a6, b4, d5, c7, a8, b6, c8, a7, b5, a3, c4, a5, c6, e7, g8, f6, e4, g3, h1, 
+Complete tour: 2235
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, d8, e6, g5, h7, f8, g6, h8, f7, e5, d7, b8, a6, b4, d5, b6, a8, c7, b5, a3, c4, a5, c6, a7, c8, e7, g8, f6, e4, g3, h1, 
+Complete tour: 2236
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, d8, e6, g5, h7, f8, g6, h8, f7, e5, d7, b8, a6, b4, c6, a5, c4, a3, b5, a7, c8, b6, a8, c7, d5, e7, g8, f6, e4, g3, h1, 
+Complete tour: 2237
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, d8, e6, g5, h7, f8, g6, h8, f7, e5, d7, b8, a6, c7, a8, b6, d5, b4, c6, a5, c4, a3, b5, a7, c8, e7, g8, f6, e4, g3, h1, 
+Complete tour: 2238
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, d8, e6, g5, h7, f8, g6, h8, f7, e5, d7, b8, a6, c7, a8, b6, c8, a7, b5, a3, c4, a5, c6, b4, d5, e7, g8, f6, e4, g3, h1, 
+Complete tour: 2239
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, d8, e6, g5, h7, f8, g6, h8, f7, e5, d7, b8, c6, a5, c4, a3, b5, a7, c8, b6, a8, c7, a6, b4, d5, e7, g8, f6, e4, g3, h1, 
+Complete tour: 2240
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, d8, e6, f8, d7, b8, a6, b4, d5, c7, a8, b6, c8, a7, b5, a3, c4, a5, c6, e5, f7, h8, g6, e7, g8, f6, h7, g5, e4, g3, h1, 
+Complete tour: 2241
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, d8, e6, f8, g6, h8, f7, e5, d7, b6, a8, c7, d5, b4, a6, b8, c6, a5, c4, a3, b5, a7, c8, e7, g8, f6, h7, g5, e4, g3, h1, 
+Complete tour: 2242
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, d8, e6, f8, g6, h8, f7, e5, d7, b8, a6, b4, d5, c7, a8, b6, c8, a7, b5, a3, c4, a5, c6, e7, g8, f6, h7, g5, e4, g3, h1, 
+Complete tour: 2243
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, d8, e6, f8, g6, h8, f7, e5, d7, b8, a6, b4, d5, b6, a8, c7, b5, a3, c4, a5, c6, a7, c8, e7, g8, f6, h7, g5, e4, g3, h1, 
+Complete tour: 2244
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, d8, e6, f8, g6, h8, f7, e5, d7, b8, a6, b4, c6, a5, c4, a3, b5, a7, c8, b6, a8, c7, d5, e7, g8, f6, h7, g5, e4, g3, h1, 
+Complete tour: 2245
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, d8, e6, f8, g6, h8, f7, e5, d7, b8, a6, c7, a8, b6, d5, b4, c6, a5, c4, a3, b5, a7, c8, e7, g8, f6, h7, g5, e4, g3, h1, 
+Complete tour: 2246
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, d8, e6, f8, g6, h8, f7, e5, d7, b8, a6, c7, a8, b6, c8, a7, b5, a3, c4, a5, c6, b4, d5, e7, g8, f6, h7, g5, e4, g3, h1, 
+Complete tour: 2247
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, d8, e6, f8, g6, h8, f7, e5, d7, b8, c6, a5, c4, a3, b5, a7, c8, b6, a8, c7, a6, b4, d5, e7, g8, f6, h7, g5, e4, g3, h1, 
+Complete tour: 2248
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, d8, e6, f8, h7, f6, g8, e7, c6, a5, c4, a3, b5, a7, c8, b6, a8, c7, d5, b4, a6, b8, d7, e5, g6, h8, f7, g5, e4, g3, h1, 
+Complete tour: 2249
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, d8, e6, f8, h7, f6, g8, e7, d5, b4, c6, a5, c4, a3, b5, a7, c8, b6, a8, c7, a6, b8, d7, e5, g6, h8, f7, g5, e4, g3, h1, 
+Complete tour: 2250
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, d8, e6, f8, h7, f6, g8, e7, d5, b4, a6, c7, a8, b6, c8, a7, b5, a3, c4, a5, c6, b8, d7, e5, g6, h8, f7, g5, e4, g3, h1, 
+Complete tour: 2251
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, d8, e6, f8, h7, f6, g8, e7, d5, c7, a8, b6, c8, a7, b5, a3, c4, a5, c6, b4, a6, b8, d7, e5, g6, h8, f7, g5, e4, g3, h1, 
+Complete tour: 2252
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, d8, e6, f8, h7, f6, g8, e7, c8, a7, b5, a3, c4, a5, c6, b4, d5, b6, a8, c7, a6, b8, d7, e5, g6, h8, f7, g5, e4, g3, h1, 
+Complete tour: 2253
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, d8, e6, f8, h7, f6, g8, e7, c8, a7, b5, a3, c4, a5, c6, b8, a6, b4, d5, c7, a8, b6, d7, e5, g6, h8, f7, g5, e4, g3, h1, 
+Complete tour: 2254
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, d8, e6, f8, h7, f6, g8, e7, c8, a7, c6, a5, c4, a3, b5, c7, a8, b6, d5, b4, a6, b8, d7, e5, g6, h8, f7, g5, e4, g3, h1, 
+Complete tour: 2255
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, d8, e6, f8, h7, g5, f7, h8, g6, e5, d7, b6, a8, c7, d5, b4, a6, b8, c6, a5, c4, a3, b5, a7, c8, e7, g8, f6, e4, g3, h1, 
+Complete tour: 2256
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, d8, e6, f8, h7, g5, f7, h8, g6, e5, d7, b8, a6, b4, d5, c7, a8, b6, c8, a7, b5, a3, c4, a5, c6, e7, g8, f6, e4, g3, h1, 
+Complete tour: 2257
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, d8, e6, f8, h7, g5, f7, h8, g6, e5, d7, b8, a6, b4, d5, b6, a8, c7, b5, a3, c4, a5, c6, a7, c8, e7, g8, f6, e4, g3, h1, 
+Complete tour: 2258
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, d8, e6, f8, h7, g5, f7, h8, g6, e5, d7, b8, a6, b4, c6, a5, c4, a3, b5, a7, c8, b6, a8, c7, d5, e7, g8, f6, e4, g3, h1, 
+Complete tour: 2259
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, d8, e6, f8, h7, g5, f7, h8, g6, e5, d7, b8, a6, c7, a8, b6, d5, b4, c6, a5, c4, a3, b5, a7, c8, e7, g8, f6, e4, g3, h1, 
+Complete tour: 2260
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, d8, e6, f8, h7, g5, f7, h8, g6, e5, d7, b8, a6, c7, a8, b6, c8, a7, b5, a3, c4, a5, c6, b4, d5, e7, g8, f6, e4, g3, h1, 
+Complete tour: 2261
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, d8, e6, f8, h7, g5, f7, h8, g6, e5, d7, b8, c6, a5, c4, a3, b5, a7, c8, b6, a8, c7, a6, b4, d5, e7, g8, f6, e4, g3, h1, 
+Complete tour: 2262
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, d8, e6, c7, a8, b6, d5, b4, a6, b8, c6, a5, c4, a3, b5, a7, c8, e7, g8, f6, h7, f8, d7, e5, g6, h8, f7, g5, e4, g3, h1, 
+Complete tour: 2263
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, d8, e6, c7, a8, b6, d5, b4, a6, b8, c6, a5, c4, a3, b5, a7, c8, e7, g8, f6, d7, e5, f7, h8, g6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2264
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, d8, e6, c7, a8, b6, d5, b4, a6, b8, d7, e5, c6, a5, c4, a3, b5, a7, c8, e7, g8, f6, h7, f8, g6, h8, f7, g5, e4, g3, h1, 
+Complete tour: 2265
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, d8, e6, c7, a8, b6, d5, b4, a6, b8, d7, f6, g8, e7, c8, a7, b5, a3, c4, a5, c6, e5, f7, h8, g6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2266
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, d8, e6, c7, a8, b6, d5, b4, a6, b8, d7, f8, g6, h8, f7, e5, c6, a5, c4, a3, b5, a7, c8, e7, g8, f6, h7, g5, e4, g3, h1, 
+Complete tour: 2267
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, d8, e6, c7, a8, b6, d5, b4, a6, b8, d7, f8, h7, f6, g8, e7, c8, a7, b5, a3, c4, a5, c6, e5, g6, h8, f7, g5, e4, g3, h1, 
+Complete tour: 2268
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, d8, e6, c7, a8, b6, d5, b4, a6, b8, d7, f8, h7, g5, f7, h8, g6, e5, c6, a5, c4, a3, b5, a7, c8, e7, g8, f6, e4, g3, h1, 
+Complete tour: 2269
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, d8, e6, c7, a8, b6, d5, f6, g8, e7, c8, a7, b5, a3, c4, a5, c6, b4, a6, b8, d7, e5, f7, h8, g6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2270
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, d8, e6, c7, a8, b6, d7, b8, a6, b4, d5, f6, g8, e7, c8, a7, b5, a3, c4, a5, c6, e5, f7, h8, g6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2271
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, d8, e6, c7, a8, b6, c8, a7, b5, a3, c4, a5, c6, e5, g6, h8, f7, g5, h7, f8, d7, b8, a6, b4, d5, e7, g8, f6, e4, g3, h1, 
+Complete tour: 2272
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, d8, e6, c7, a8, b6, c8, a7, b5, a3, c4, a5, c6, e5, f7, h8, g6, f8, d7, b8, a6, b4, d5, e7, g8, f6, h7, g5, e4, g3, h1, 
+Complete tour: 2273
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, d8, e6, c7, a8, b6, c8, a7, b5, a3, c4, a5, c6, e5, f7, h8, g6, e7, g8, f6, d5, b4, a6, b8, d7, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2274
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, d8, e6, c7, a8, b6, c8, a7, b5, a3, c4, a5, c6, e5, d7, b8, a6, b4, d5, e7, g8, f6, h7, f8, g6, h8, f7, g5, e4, g3, h1, 
+Complete tour: 2275
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, d8, e6, c7, a8, b6, c8, a7, b5, a3, c4, a5, c6, e7, g8, f6, d5, b4, a6, b8, d7, e5, f7, h8, g6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2276
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, d8, e6, c7, a8, b6, c8, a7, b5, a3, c4, a5, c6, b8, a6, b4, d5, f6, g8, e7, g6, h8, f7, e5, d7, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2277
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, d8, e6, c7, a8, b6, c8, a7, b5, a3, c4, a5, c6, b8, a6, b4, d5, e7, g8, f6, h7, f8, d7, e5, g6, h8, f7, g5, e4, g3, h1, 
+Complete tour: 2278
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, d8, e6, c7, a8, b6, c8, a7, b5, a3, c4, a5, c6, b8, a6, b4, d5, e7, g8, f6, d7, e5, f7, h8, g6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2279
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, d8, f7, h8, g6, e5, d7, b6, a8, c7, d5, b4, a6, b8, c6, a5, c4, a3, b5, a7, c8, e7, g8, f6, h7, f8, e6, g5, e4, g3, h1, 
+Complete tour: 2280
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, d8, f7, h8, g6, e5, d7, f6, g8, e7, d5, b4, a6, b8, c6, a5, c4, a3, b5, a7, c8, b6, a8, c7, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2281
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, d8, f7, h8, g6, e5, d7, f6, g8, e7, c8, a7, b5, a3, c4, a5, c6, b8, a6, b4, d5, b6, a8, c7, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2282
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, d8, f7, h8, g6, e5, d7, f8, e6, c7, a8, b6, d5, b4, a6, b8, c6, a5, c4, a3, b5, a7, c8, e7, g8, f6, h7, g5, e4, g3, h1, 
+Complete tour: 2283
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, d8, f7, h8, g6, e5, d7, f8, e6, c7, a8, b6, c8, a7, b5, a3, c4, a5, c6, b8, a6, b4, d5, e7, g8, f6, h7, g5, e4, g3, h1, 
+Complete tour: 2284
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, d8, f7, h8, g6, e5, d7, f8, h7, f6, g8, e7, d5, b4, a6, b8, c6, a5, c4, a3, b5, a7, c8, b6, a8, c7, e6, g5, e4, g3, h1, 
+Complete tour: 2285
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, d8, f7, h8, g6, e5, d7, f8, h7, f6, g8, e7, c8, a7, b5, a3, c4, a5, c6, b8, a6, b4, d5, b6, a8, c7, e6, g5, e4, g3, h1, 
+Complete tour: 2286
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, d8, f7, h8, g6, e5, d7, f8, h7, g5, e6, c7, a8, b6, d5, b4, a6, b8, c6, a5, c4, a3, b5, a7, c8, e7, g8, f6, e4, g3, h1, 
+Complete tour: 2287
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, d8, f7, h8, g6, e5, d7, f8, h7, g5, e6, c7, a8, b6, c8, a7, b5, a3, c4, a5, c6, b8, a6, b4, d5, e7, g8, f6, e4, g3, h1, 
+Complete tour: 2288
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, d8, f7, h8, g6, e5, d7, b8, a6, b4, d5, f6, g8, e7, c6, a5, c4, a3, b5, a7, c8, b6, a8, c7, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2289
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, d8, f7, h8, g6, e5, d7, b8, a6, b4, d5, c7, a8, b6, c8, a7, b5, a3, c4, a5, c6, e7, g8, f6, h7, f8, e6, g5, e4, g3, h1, 
+Complete tour: 2290
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, d8, f7, h8, g6, e5, d7, b8, a6, b4, d5, b6, a8, c7, b5, a3, c4, a5, c6, a7, c8, e7, g8, f6, h7, f8, e6, g5, e4, g3, h1, 
+Complete tour: 2291
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, d8, f7, h8, g6, e5, d7, b8, a6, b4, c6, a5, c4, a3, b5, a7, c8, b6, a8, c7, d5, e7, g8, f6, h7, f8, e6, g5, e4, g3, h1, 
+Complete tour: 2292
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, d8, f7, h8, g6, e5, d7, b8, a6, b4, c6, a5, c4, a3, b5, a7, c8, e7, g8, f6, d5, b6, a8, c7, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2293
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, d8, f7, h8, g6, e5, d7, b8, a6, c7, a8, b6, d5, b4, c6, a5, c4, a3, b5, a7, c8, e7, g8, f6, h7, f8, e6, g5, e4, g3, h1, 
+Complete tour: 2294
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, d8, f7, h8, g6, e5, d7, b8, a6, c7, a8, b6, c8, a7, b5, a3, c4, a5, c6, b4, d5, e7, g8, f6, h7, f8, e6, g5, e4, g3, h1, 
+Complete tour: 2295
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, d8, f7, h8, g6, e5, d7, b8, c6, a5, c4, a3, b5, a7, c8, b6, a8, c7, a6, b4, d5, e7, g8, f6, h7, f8, e6, g5, e4, g3, h1, 
+Complete tour: 2296
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, d8, f7, h8, g6, e5, c6, a5, c4, a3, b5, a7, c8, b6, a8, c7, e6, g5, h7, f8, d7, b8, a6, b4, d5, e7, g8, f6, e4, g3, h1, 
+Complete tour: 2297
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, d8, f7, h8, g6, e5, c6, a5, c4, a3, b5, a7, c8, b6, a8, c7, e6, f8, d7, b8, a6, b4, d5, e7, g8, f6, h7, g5, e4, g3, h1, 
+Complete tour: 2298
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, d8, f7, h8, g6, e5, c6, a5, c4, a3, b5, a7, c8, e7, g8, f6, d5, b4, a6, b8, d7, b6, a8, c7, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2299
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, d8, f7, h8, g6, e5, c6, a5, c4, a3, b5, a7, c8, e7, g8, f6, h7, f8, d7, b8, a6, b4, d5, b6, a8, c7, e6, g5, e4, g3, h1, 
+Complete tour: 2300
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, d8, f7, h8, g6, e5, c6, a5, c4, a3, b5, a7, c8, e7, g8, f6, d7, b8, a6, b4, d5, b6, a8, c7, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2301
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, d8, f7, h8, g6, f8, e6, c7, a8, b6, d5, b4, a6, b8, d7, e5, c6, a5, c4, a3, b5, a7, c8, e7, g8, f6, h7, g5, e4, g3, h1, 
+Complete tour: 2302
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, d8, f7, h8, g6, f8, e6, c7, a8, b6, c8, a7, b5, a3, c4, a5, c6, e5, d7, b8, a6, b4, d5, e7, g8, f6, h7, g5, e4, g3, h1, 
+Complete tour: 2303
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, d8, f7, h8, g6, f8, h7, f6, g8, e7, d5, b4, a6, b8, d7, e5, c6, a5, c4, a3, b5, a7, c8, b6, a8, c7, e6, g5, e4, g3, h1, 
+Complete tour: 2304
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, d8, f7, h8, g6, f8, h7, f6, g8, e7, c8, a7, b5, a3, c4, a5, c6, e5, d7, b8, a6, b4, d5, b6, a8, c7, e6, g5, e4, g3, h1, 
+Complete tour: 2305
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, d8, f7, h8, g6, f8, h7, g5, e6, c7, a8, b6, d5, b4, a6, b8, d7, e5, c6, a5, c4, a3, b5, a7, c8, e7, g8, f6, e4, g3, h1, 
+Complete tour: 2306
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, d8, f7, h8, g6, f8, h7, g5, e6, c7, a8, b6, c8, a7, b5, a3, c4, a5, c6, e5, d7, b8, a6, b4, d5, e7, g8, f6, e4, g3, h1, 
+Complete tour: 2307
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, d6, b7, d8, f7, h8, g6, e7, g8, f6, d5, b4, a6, b8, d7, e5, c6, a5, c4, a3, b5, a7, c8, b6, a8, c7, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2308
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c6, a5, c4, a3, b5, a7, c8, b6, a8, c7, d5, b4, a6, b8, d7, e5, g6, h8, f7, d6, b7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2309
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c6, a5, c4, a3, b5, a7, c8, b6, a8, c7, d5, b4, a6, b8, d7, e5, g6, h8, f7, g5, h7, f8, e6, d8, b7, d6, e4, g3, h1, 
+Complete tour: 2310
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c6, a5, c4, a3, b5, a7, c8, b6, a8, c7, d5, b4, a6, b8, d7, e5, f7, h8, g6, f8, h7, g5, e6, d8, b7, d6, e4, g3, h1, 
+Complete tour: 2311
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c6, a5, c4, a3, b5, a7, c8, d6, b7, d8, e6, c7, a8, b6, d5, b4, a6, b8, d7, e5, f7, h8, g6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2312
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c6, a5, c4, a3, b5, a7, c8, d6, b7, d8, f7, h8, g6, e5, d7, b8, a6, b4, d5, b6, a8, c7, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2313
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c6, a5, b7, d6, c4, a3, b5, a7, c8, b6, a8, c7, d5, b4, a6, b8, d7, e5, g6, h8, f7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2314
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c6, a5, b7, d6, c8, a7, b5, a3, c4, e5, g6, h8, f7, d8, e6, c7, a8, b6, d5, b4, a6, b8, d7, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2315
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c6, a5, b7, d6, c8, a7, b5, a3, c4, e5, d7, b8, a6, b4, d5, b6, a8, c7, e6, d8, f7, h8, g6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2316
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c6, a5, b7, d6, c8, a7, b5, a3, c4, b6, a8, c7, d5, b4, a6, b8, d7, e5, g6, h8, f7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2317
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c6, a5, b7, d8, e6, g5, h7, f8, d7, b8, a6, b4, d5, c7, a8, b6, c8, a7, b5, a3, c4, e5, g6, h8, f7, d6, e4, g3, h1, 
+Complete tour: 2318
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c6, a5, b7, d8, e6, g5, h7, f8, g6, h8, f7, e5, d7, b8, a6, b4, d5, c7, a8, b6, c4, a3, b5, a7, c8, d6, e4, g3, h1, 
+Complete tour: 2319
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c6, a5, b7, d8, e6, g5, h7, f8, g6, h8, f7, e5, d7, b8, a6, b4, d5, c7, a8, b6, c8, a7, b5, a3, c4, d6, e4, g3, h1, 
+Complete tour: 2320
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c6, a5, b7, d8, e6, f8, h7, g5, f7, h8, g6, e5, d7, b8, a6, b4, d5, c7, a8, b6, c4, a3, b5, a7, c8, d6, e4, g3, h1, 
+Complete tour: 2321
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c6, a5, b7, d8, e6, f8, h7, g5, f7, h8, g6, e5, d7, b8, a6, b4, d5, c7, a8, b6, c8, a7, b5, a3, c4, d6, e4, g3, h1, 
+Complete tour: 2322
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c6, a5, b7, d8, e6, c7, a8, b6, d5, b4, a6, b8, d7, e5, c4, a3, b5, a7, c8, d6, f7, h8, g6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2323
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c6, a5, b7, d8, e6, c7, a8, b6, d5, b4, a6, b8, d7, f8, h7, g5, f7, h8, g6, e5, c4, a3, b5, a7, c8, d6, e4, g3, h1, 
+Complete tour: 2324
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c6, a5, b7, d8, f7, h8, g6, f8, h7, g5, e6, c7, a8, b6, d5, b4, a6, b8, d7, e5, c4, a3, b5, a7, c8, d6, e4, g3, h1, 
+Complete tour: 2325
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c6, b4, d5, b6, a8, c7, a6, b8, d7, e5, g6, h8, f7, d6, c8, a7, b5, a3, c4, a5, b7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2326
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c6, b4, d5, b6, a8, c7, a6, b8, d7, e5, g6, h8, f7, g5, h7, f8, e6, d8, b7, a5, c4, a3, b5, a7, c8, d6, e4, g3, h1, 
+Complete tour: 2327
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c6, b4, d5, b6, a8, c7, a6, b8, d7, e5, f7, h8, g6, f8, h7, g5, e6, d8, b7, a5, c4, a3, b5, a7, c8, d6, e4, g3, h1, 
+Complete tour: 2328
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c6, e5, g6, h8, f7, d6, c8, a7, b5, a3, c4, a5, b7, d8, e6, c7, a8, b6, d5, b4, a6, b8, d7, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2329
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c6, e5, g6, h8, f7, g5, h7, f8, d7, b8, a6, b4, d5, b6, a8, c7, e6, d8, b7, a5, c4, a3, b5, a7, c8, d6, e4, g3, h1, 
+Complete tour: 2330
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c6, e5, g6, h8, f7, d8, e6, g5, h7, f8, d7, b8, a6, b4, d5, c7, a8, b6, c8, a7, b5, a3, c4, a5, b7, d6, e4, g3, h1, 
+Complete tour: 2331
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c6, e5, d7, b8, a6, b4, d5, c7, a8, b6, c8, a7, b5, a3, c4, a5, b7, d8, e6, g5, h7, f8, g6, h8, f7, d6, e4, g3, h1, 
+Complete tour: 2332
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c6, e5, d7, b8, a6, b4, d5, b6, a8, c7, e6, g5, h7, f8, g6, h8, f7, d8, b7, a5, c4, a3, b5, a7, c8, d6, e4, g3, h1, 
+Complete tour: 2333
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c6, e5, d7, b8, a6, b4, d5, b6, a8, c7, e6, d8, b7, a5, c4, a3, b5, a7, c8, d6, f7, h8, g6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2334
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c6, d8, b7, a5, c4, a3, b5, a7, c8, d6, f7, h8, g6, e5, d7, b8, a6, b4, d5, b6, a8, c7, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2335
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c6, d8, e6, g5, h7, f8, g6, h8, f7, e5, d7, b8, a6, b4, d5, c7, a8, b6, c8, a7, b5, a3, c4, a5, b7, d6, e4, g3, h1, 
+Complete tour: 2336
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c6, d8, e6, f8, h7, g5, f7, h8, g6, e5, d7, b8, a6, b4, d5, c7, a8, b6, c8, a7, b5, a3, c4, a5, b7, d6, e4, g3, h1, 
+Complete tour: 2337
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c6, b8, a6, b4, d5, c7, a8, b6, d7, e5, g6, h8, f7, d6, c8, a7, b5, a3, c4, a5, b7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2338
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c6, b8, a6, b4, d5, c7, a8, b6, d7, e5, g6, h8, f7, g5, h7, f8, e6, d8, b7, a5, c4, a3, b5, a7, c8, d6, e4, g3, h1, 
+Complete tour: 2339
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c6, b8, a6, b4, d5, c7, a8, b6, d7, e5, f7, h8, g6, f8, h7, g5, e6, d8, b7, a5, c4, a3, b5, a7, c8, d6, e4, g3, h1, 
+Complete tour: 2340
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c6, b8, a6, b4, d5, c7, a8, b6, c8, a7, b5, a3, c4, a5, b7, d8, e6, g5, h7, f8, d7, e5, g6, h8, f7, d6, e4, g3, h1, 
+Complete tour: 2341
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c6, b8, a6, b4, d5, b6, a8, c7, e6, g5, h7, f8, d7, e5, g6, h8, f7, d8, b7, a5, c4, a3, b5, a7, c8, d6, e4, g3, h1, 
+Complete tour: 2342
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c6, b8, a6, b4, d5, b6, a8, c7, e6, d8, b7, a5, c4, a3, b5, a7, c8, d6, f7, h8, g6, e5, d7, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2343
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c6, a7, b5, a3, c4, a5, b7, d6, c8, b6, a8, c7, d5, b4, a6, b8, d7, e5, g6, h8, f7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2344
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c6, a7, b5, a3, c4, a5, b7, d8, e6, g5, h7, f8, g6, h8, f7, e5, d7, b8, a6, b4, d5, c7, a8, b6, c8, d6, e4, g3, h1, 
+Complete tour: 2345
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c6, a7, b5, a3, c4, a5, b7, d8, e6, f8, h7, g5, f7, h8, g6, e5, d7, b8, a6, b4, d5, c7, a8, b6, c8, d6, e4, g3, h1, 
+Complete tour: 2346
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c6, a7, c8, b6, a8, c7, d5, b4, a6, b8, d7, e5, g6, h8, f7, d6, b5, a3, c4, a5, b7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2347
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c6, a7, c8, b6, a8, c7, d5, b4, a6, b8, d7, e5, g6, h8, f7, g5, h7, f8, e6, d8, b7, a5, c4, a3, b5, d6, e4, g3, h1, 
+Complete tour: 2348
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c6, a7, c8, b6, a8, c7, d5, b4, a6, b8, d7, e5, f7, h8, g6, f8, h7, g5, e6, d8, b7, a5, c4, a3, b5, d6, e4, g3, h1, 
+Complete tour: 2349
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c6, a7, c8, d6, b5, a3, c4, a5, b7, d8, e6, c7, a8, b6, d5, b4, a6, b8, d7, e5, f7, h8, g6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2350
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c6, a7, c8, d6, b5, a3, c4, a5, b7, d8, f7, h8, g6, e5, d7, b8, a6, b4, d5, b6, a8, c7, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2351
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c6, a7, c8, d6, f7, h8, g6, e5, d7, b8, a6, b4, d5, b6, a8, c7, b5, a3, c4, a5, b7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2352
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c6, a7, c8, d6, b7, a5, c4, a3, b5, c7, a8, b6, d5, b4, a6, b8, d7, e5, g6, h8, f7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2353
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, c6, a5, c4, a3, b5, a7, c8, b6, a8, c7, a6, b8, d7, e5, g6, h8, f7, d6, b7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2354
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, c6, a5, c4, a3, b5, a7, c8, b6, a8, c7, a6, b8, d7, e5, g6, h8, f7, g5, h7, f8, e6, d8, b7, d6, e4, g3, h1, 
+Complete tour: 2355
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, c6, a5, c4, a3, b5, a7, c8, b6, a8, c7, a6, b8, d7, e5, f7, h8, g6, f8, h7, g5, e6, d8, b7, d6, e4, g3, h1, 
+Complete tour: 2356
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, c6, a5, b7, d6, c4, a3, b5, a7, c8, b6, a8, c7, a6, b8, d7, e5, g6, h8, f7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2357
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, c6, a5, b7, d6, c8, a7, b5, a3, c4, b6, a8, c7, a6, b8, d7, e5, g6, h8, f7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2358
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, c6, a5, b7, d8, e6, g5, h7, f8, d7, b8, a6, c7, a8, b6, c8, a7, b5, a3, c4, e5, g6, h8, f7, d6, e4, g3, h1, 
+Complete tour: 2359
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, c6, a5, b7, d8, e6, g5, h7, f8, g6, h8, f7, e5, d7, b8, a6, c7, a8, b6, c4, a3, b5, a7, c8, d6, e4, g3, h1, 
+Complete tour: 2360
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, c6, a5, b7, d8, e6, g5, h7, f8, g6, h8, f7, e5, d7, b8, a6, c7, a8, b6, c8, a7, b5, a3, c4, d6, e4, g3, h1, 
+Complete tour: 2361
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, c6, a5, b7, d8, e6, f8, h7, g5, f7, h8, g6, e5, d7, b8, a6, c7, a8, b6, c4, a3, b5, a7, c8, d6, e4, g3, h1, 
+Complete tour: 2362
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, c6, a5, b7, d8, e6, f8, h7, g5, f7, h8, g6, e5, d7, b8, a6, c7, a8, b6, c8, a7, b5, a3, c4, d6, e4, g3, h1, 
+Complete tour: 2363
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, c6, e5, g6, h8, f7, d8, e6, g5, h7, f8, d7, b8, a6, c7, a8, b6, c8, a7, b5, a3, c4, a5, b7, d6, e4, g3, h1, 
+Complete tour: 2364
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, c6, e5, d7, b8, a6, c7, a8, b6, c8, a7, b5, a3, c4, a5, b7, d8, e6, g5, h7, f8, g6, h8, f7, d6, e4, g3, h1, 
+Complete tour: 2365
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, c6, d8, e6, g5, h7, f8, g6, h8, f7, e5, d7, b8, a6, c7, a8, b6, c8, a7, b5, a3, c4, a5, b7, d6, e4, g3, h1, 
+Complete tour: 2366
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, c6, d8, e6, f8, h7, g5, f7, h8, g6, e5, d7, b8, a6, c7, a8, b6, c8, a7, b5, a3, c4, a5, b7, d6, e4, g3, h1, 
+Complete tour: 2367
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, c6, b8, a6, c7, a8, b6, d7, e5, g6, h8, f7, d6, c8, a7, b5, a3, c4, a5, b7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2368
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, c6, b8, a6, c7, a8, b6, d7, e5, g6, h8, f7, g5, h7, f8, e6, d8, b7, a5, c4, a3, b5, a7, c8, d6, e4, g3, h1, 
+Complete tour: 2369
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, c6, b8, a6, c7, a8, b6, d7, e5, f7, h8, g6, f8, h7, g5, e6, d8, b7, a5, c4, a3, b5, a7, c8, d6, e4, g3, h1, 
+Complete tour: 2370
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, c6, b8, a6, c7, a8, b6, c8, a7, b5, a3, c4, a5, b7, d8, e6, g5, h7, f8, d7, e5, g6, h8, f7, d6, e4, g3, h1, 
+Complete tour: 2371
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, c6, a7, b5, a3, c4, a5, b7, d6, c8, b6, a8, c7, a6, b8, d7, e5, g6, h8, f7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2372
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, c6, a7, b5, a3, c4, a5, b7, d8, e6, g5, h7, f8, g6, h8, f7, e5, d7, b8, a6, c7, a8, b6, c8, d6, e4, g3, h1, 
+Complete tour: 2373
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, c6, a7, b5, a3, c4, a5, b7, d8, e6, f8, h7, g5, f7, h8, g6, e5, d7, b8, a6, c7, a8, b6, c8, d6, e4, g3, h1, 
+Complete tour: 2374
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, c6, a7, c8, b6, a8, c7, a6, b8, d7, e5, g6, h8, f7, d6, b5, a3, c4, a5, b7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2375
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, c6, a7, c8, b6, a8, c7, a6, b8, d7, e5, g6, h8, f7, g5, h7, f8, e6, d8, b7, a5, c4, a3, b5, d6, e4, g3, h1, 
+Complete tour: 2376
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, c6, a7, c8, b6, a8, c7, a6, b8, d7, e5, f7, h8, g6, f8, h7, g5, e6, d8, b7, a5, c4, a3, b5, d6, e4, g3, h1, 
+Complete tour: 2377
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, c7, a8, b6, c4, a3, b5, a7, c8, d6, f7, h8, g6, e5, d7, b8, c6, a5, b7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2378
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, c7, a8, b6, c4, a3, b5, a7, c8, d6, b7, a5, c6, b8, d7, e5, g6, h8, f7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2379
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, c7, a8, b6, d7, b8, c6, a5, b7, d6, c8, a7, b5, a3, c4, e5, g6, h8, f7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2380
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, c7, a8, b6, d7, b8, c6, a5, b7, d8, e6, g5, h7, f8, g6, h8, f7, e5, c4, a3, b5, a7, c8, d6, e4, g3, h1, 
+Complete tour: 2381
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, c7, a8, b6, d7, b8, c6, a5, b7, d8, e6, f8, h7, g5, f7, h8, g6, e5, c4, a3, b5, a7, c8, d6, e4, g3, h1, 
+Complete tour: 2382
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, c7, a8, b6, d7, b8, c6, e5, g6, h8, f7, d6, c8, a7, b5, a3, c4, a5, b7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2383
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, c7, a8, b6, d7, b8, c6, e5, g6, h8, f7, g5, h7, f8, e6, d8, b7, a5, c4, a3, b5, a7, c8, d6, e4, g3, h1, 
+Complete tour: 2384
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, c7, a8, b6, d7, b8, c6, e5, f7, h8, g6, f8, h7, g5, e6, d8, b7, a5, c4, a3, b5, a7, c8, d6, e4, g3, h1, 
+Complete tour: 2385
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, c7, a8, b6, c8, a7, b5, a3, c4, e5, g6, h8, f7, d8, e6, g5, h7, f8, d7, b8, c6, a5, b7, d6, e4, g3, h1, 
+Complete tour: 2386
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, c7, a8, b6, c8, a7, b5, a3, c4, e5, d7, b8, c6, a5, b7, d8, e6, g5, h7, f8, g6, h8, f7, d6, e4, g3, h1, 
+Complete tour: 2387
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, c7, a8, b6, c8, a7, b5, a3, c4, d6, f7, h8, g6, e5, d7, b8, c6, a5, b7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2388
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, c7, a8, b6, c8, a7, b5, a3, c4, d6, b7, a5, c6, b8, d7, e5, g6, h8, f7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2389
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, c7, a8, b6, c8, a7, b5, a3, c4, a5, c6, b8, d7, e5, g6, h8, f7, d6, b7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2390
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, c7, a8, b6, c8, a7, b5, a3, c4, a5, c6, b8, d7, e5, g6, h8, f7, g5, h7, f8, e6, d8, b7, d6, e4, g3, h1, 
+Complete tour: 2391
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, c7, a8, b6, c8, a7, b5, a3, c4, a5, c6, b8, d7, e5, f7, h8, g6, f8, h7, g5, e6, d8, b7, d6, e4, g3, h1, 
+Complete tour: 2392
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, c7, a8, b6, c8, a7, b5, a3, c4, a5, b7, d6, f7, h8, g6, e5, d7, b8, c6, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2393
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, c7, a8, b6, c8, a7, b5, a3, c4, a5, b7, d8, e6, g5, h7, f8, d7, b8, c6, e5, g6, h8, f7, d6, e4, g3, h1, 
+Complete tour: 2394
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, c7, a8, b6, c8, a7, c6, b8, d7, e5, g6, h8, f7, d6, b5, a3, c4, a5, b7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2395
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, c7, a8, b6, c8, a7, c6, b8, d7, e5, g6, h8, f7, g5, h7, f8, e6, d8, b7, a5, c4, a3, b5, d6, e4, g3, h1, 
+Complete tour: 2396
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, c7, a8, b6, c8, a7, c6, b8, d7, e5, f7, h8, g6, f8, h7, g5, e6, d8, b7, a5, c4, a3, b5, d6, e4, g3, h1, 
+Complete tour: 2397
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, c7, a8, b6, c8, d6, f7, h8, g6, e5, d7, b8, c6, a7, b5, a3, c4, a5, b7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2398
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, c7, a8, b6, c8, d6, b7, a5, c4, a3, b5, a7, c6, b8, d7, e5, g6, h8, f7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2399
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, c6, a5, c4, a3, b5, a7, c8, b6, a8, c7, e6, g5, h7, f8, d7, e5, g6, h8, f7, d8, b7, d6, e4, g3, h1, 
+Complete tour: 2400
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, c6, a5, c4, a3, b5, a7, c8, b6, a8, c7, e6, d8, b7, d6, f7, h8, g6, e5, d7, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2401
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, c6, a5, c4, a3, b5, a7, c8, d6, b7, d8, e6, c7, a8, b6, d7, e5, f7, h8, g6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2402
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, c6, a5, c4, a3, b5, a7, c8, d6, b7, d8, f7, h8, g6, e5, d7, b6, a8, c7, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2403
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, c6, a5, b7, d6, c4, a3, b5, a7, c8, b6, a8, c7, e6, d8, f7, h8, g6, e5, d7, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2404
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, c6, a5, b7, d6, c8, a7, b5, a3, c4, e5, g6, h8, f7, d8, e6, c7, a8, b6, d7, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2405
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, c6, a5, b7, d6, c8, a7, b5, a3, c4, e5, d7, b6, a8, c7, e6, d8, f7, h8, g6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2406
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, c6, a5, b7, d6, c8, a7, b5, a3, c4, b6, a8, c7, e6, d8, f7, h8, g6, e5, d7, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2407
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, c6, a5, b7, d8, e6, c7, a8, b6, c4, a3, b5, a7, c8, d6, f7, h8, g6, e5, d7, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2408
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, c6, a5, b7, d8, e6, c7, a8, b6, d7, e5, c4, a3, b5, a7, c8, d6, f7, h8, g6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2409
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, c6, a5, b7, d8, e6, c7, a8, b6, d7, f8, h7, g5, f7, h8, g6, e5, c4, a3, b5, a7, c8, d6, e4, g3, h1, 
+Complete tour: 2410
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, c6, a5, b7, d8, e6, c7, a8, b6, c8, a7, b5, a3, c4, d6, f7, h8, g6, e5, d7, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2411
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, c6, a5, b7, d8, f7, h8, g6, e5, d7, f8, h7, g5, e6, c7, a8, b6, c4, a3, b5, a7, c8, d6, e4, g3, h1, 
+Complete tour: 2412
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, c6, a5, b7, d8, f7, h8, g6, e5, d7, f8, h7, g5, e6, c7, a8, b6, c8, a7, b5, a3, c4, d6, e4, g3, h1, 
+Complete tour: 2413
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, c6, a5, b7, d8, f7, h8, g6, f8, h7, g5, e6, c7, a8, b6, d7, e5, c4, a3, b5, a7, c8, d6, e4, g3, h1, 
+Complete tour: 2414
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, c6, e5, g6, h8, f7, d6, c8, a7, b5, a3, c4, a5, b7, d8, e6, c7, a8, b6, d7, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2415
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, c6, e5, g6, h8, f7, g5, h7, f8, d7, b6, a8, c7, e6, d8, b7, a5, c4, a3, b5, a7, c8, d6, e4, g3, h1, 
+Complete tour: 2416
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, c6, e5, d7, b6, a8, c7, e6, g5, h7, f8, g6, h8, f7, d8, b7, a5, c4, a3, b5, a7, c8, d6, e4, g3, h1, 
+Complete tour: 2417
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, c6, e5, d7, b6, a8, c7, e6, d8, b7, a5, c4, a3, b5, a7, c8, d6, f7, h8, g6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2418
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, c6, d8, b7, a5, c4, a3, b5, a7, c8, b6, a8, c7, e6, g5, h7, f8, d7, e5, g6, h8, f7, d6, e4, g3, h1, 
+Complete tour: 2419
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, c6, d8, b7, a5, c4, a3, b5, a7, c8, d6, f7, h8, g6, e5, d7, b6, a8, c7, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2420
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, c6, d8, e6, c7, a8, b6, c8, a7, b5, a3, c4, a5, b7, d6, f7, h8, g6, e5, d7, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2421
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, c6, d8, f7, h8, g6, e5, d7, f8, h7, g5, e6, c7, a8, b6, c8, a7, b5, a3, c4, a5, b7, d6, e4, g3, h1, 
+Complete tour: 2422
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, c6, a7, b5, a3, c4, a5, b7, d6, c8, b6, a8, c7, e6, d8, f7, h8, g6, e5, d7, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2423
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, c6, a7, b5, a3, c4, a5, b7, d8, e6, c7, a8, b6, c8, d6, f7, h8, g6, e5, d7, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2424
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, c6, a7, b5, a3, c4, a5, b7, d8, f7, h8, g6, e5, d7, f8, h7, g5, e6, c7, a8, b6, c8, d6, e4, g3, h1, 
+Complete tour: 2425
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, c6, a7, c8, b6, a8, c7, b5, a3, c4, a5, b7, d8, e6, g5, h7, f8, d7, e5, g6, h8, f7, d6, e4, g3, h1, 
+Complete tour: 2426
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, c6, a7, c8, b6, a8, c7, e6, g5, h7, f8, d7, e5, g6, h8, f7, d8, b7, a5, c4, a3, b5, d6, e4, g3, h1, 
+Complete tour: 2427
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, c6, a7, c8, b6, a8, c7, e6, d8, b7, a5, c4, a3, b5, d6, f7, h8, g6, e5, d7, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2428
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, c6, a7, c8, d6, b5, a3, c4, a5, b7, d8, e6, c7, a8, b6, d7, e5, f7, h8, g6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2429
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, c6, a7, c8, d6, b5, a3, c4, a5, b7, d8, f7, h8, g6, e5, d7, b6, a8, c7, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2430
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, c6, a7, c8, d6, f7, h8, g6, e5, d7, b6, a8, c7, b5, a3, c4, a5, b7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2431
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, c6, a7, c8, d6, b7, a5, c4, a3, b5, c7, a8, b6, d7, e5, g6, h8, f7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2432
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, d7, b6, a8, c7, b5, a3, c4, e5, g6, h8, f7, d6, c8, a7, c6, a5, b7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2433
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, d7, b6, a8, c7, b5, a3, c4, e5, g6, h8, f7, g5, h7, f8, e6, d8, b7, a5, c6, a7, c8, d6, e4, g3, h1, 
+Complete tour: 2434
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, d7, b6, a8, c7, b5, a3, c4, e5, f7, h8, g6, f8, h7, g5, e6, d8, b7, a5, c6, a7, c8, d6, e4, g3, h1, 
+Complete tour: 2435
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, d7, b6, a8, c7, b5, a3, c4, a5, b7, d6, c8, a7, c6, e5, g6, h8, f7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2436
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, d7, b6, a8, c7, b5, a3, c4, a5, b7, d8, e6, g5, h7, f8, g6, h8, f7, e5, c6, a7, c8, d6, e4, g3, h1, 
+Complete tour: 2437
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, d7, b6, a8, c7, b5, a3, c4, a5, b7, d8, e6, f8, h7, g5, f7, h8, g6, e5, c6, a7, c8, d6, e4, g3, h1, 
+Complete tour: 2438
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, d7, b6, a8, c7, e6, g5, h7, f8, g6, h8, f7, e5, c6, d8, b7, a5, c4, a3, b5, a7, c8, d6, e4, g3, h1, 
+Complete tour: 2439
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, d7, b6, a8, c7, e6, g5, h7, f8, g6, h8, f7, d8, b7, a5, c6, e5, c4, a3, b5, a7, c8, d6, e4, g3, h1, 
+Complete tour: 2440
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, d7, b6, a8, c7, e6, f8, h7, g5, f7, h8, g6, e5, c6, d8, b7, a5, c4, a3, b5, a7, c8, d6, e4, g3, h1, 
+Complete tour: 2441
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, d7, b6, a8, c7, e6, d8, b7, a5, c4, a3, b5, d6, c8, a7, c6, e5, f7, h8, g6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2442
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, d7, b6, a8, c7, e6, d8, b7, a5, c6, e5, c4, a3, b5, a7, c8, d6, f7, h8, g6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2443
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, d7, b6, a8, c7, e6, d8, b7, a5, c6, a7, c8, d6, b5, a3, c4, e5, f7, h8, g6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2444
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, d7, b6, a8, c7, e6, d8, b7, d6, c8, a7, b5, a3, c4, a5, c6, e5, f7, h8, g6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2445
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, d7, b6, a8, c7, e6, d8, c6, a5, b7, d6, c8, a7, b5, a3, c4, e5, f7, h8, g6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2446
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, d7, e5, c4, a3, b5, d6, b7, a5, c6, a7, c8, b6, a8, c7, e6, d8, f7, h8, g6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2447
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, d7, e5, c4, a3, b5, c7, a8, b6, c8, a7, c6, a5, b7, d8, e6, g5, h7, f8, g6, h8, f7, d6, e4, g3, h1, 
+Complete tour: 2448
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, d7, e5, c4, a3, b5, a7, c6, a5, b7, d6, c8, b6, a8, c7, e6, d8, f7, h8, g6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2449
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, d7, e5, c4, a3, b5, a7, c6, a5, b7, d8, e6, c7, a8, b6, c8, d6, f7, h8, g6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2450
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, d7, e5, c4, a3, b5, a7, c6, a5, b7, d8, f7, h8, g6, f8, h7, g5, e6, c7, a8, b6, c8, d6, e4, g3, h1, 
+Complete tour: 2451
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, d7, e5, c4, a3, b5, a7, c8, b6, a8, c7, e6, g5, h7, f8, g6, h8, f7, d8, c6, a5, b7, d6, e4, g3, h1, 
+Complete tour: 2452
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, d7, e5, c4, a3, b5, a7, c8, b6, a8, c7, e6, d8, c6, a5, b7, d6, f7, h8, g6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2453
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, d7, e5, g6, h8, f7, d6, b5, a3, c4, a5, b7, d8, c6, a7, c8, b6, a8, c7, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2454
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, d7, e5, g6, h8, f7, d6, c4, a3, b5, c7, a8, b6, c8, a7, c6, a5, b7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2455
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, d7, e5, g6, h8, f7, d6, b7, a5, c4, a3, b5, c7, a8, b6, c8, a7, c6, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2456
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, d7, e5, g6, h8, f7, d6, b7, d8, c6, a5, c4, a3, b5, a7, c8, b6, a8, c7, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2457
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, d7, e5, g6, h8, f7, g5, h7, f8, e6, d8, b7, a5, c6, a7, c8, b6, a8, c7, b5, a3, c4, d6, e4, g3, h1, 
+Complete tour: 2458
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, d7, e5, g6, h8, f7, g5, h7, f8, e6, d8, c6, a7, c8, b6, a8, c7, b5, a3, c4, a5, b7, d6, e4, g3, h1, 
+Complete tour: 2459
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, d7, e5, g6, h8, f7, g5, h7, f8, e6, c7, a8, b6, c8, a7, b5, a3, c4, a5, c6, d8, b7, d6, e4, g3, h1, 
+Complete tour: 2460
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, d7, e5, g6, h8, f7, g5, h7, f8, e6, c7, a8, b6, c8, a7, c6, d8, b7, a5, c4, a3, b5, d6, e4, g3, h1, 
+Complete tour: 2461
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, d7, e5, g6, h8, f7, d8, b7, a5, c6, a7, b5, a3, c4, d6, c8, b6, a8, c7, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2462
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, d7, e5, g6, h8, f7, d8, b7, a5, c6, a7, c8, d6, b5, a3, c4, b6, a8, c7, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2463
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, d7, e5, g6, h8, f7, d8, b7, d6, b5, a3, c4, a5, c6, a7, c8, b6, a8, c7, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2464
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, d7, e5, g6, h8, f7, d8, c6, a5, b7, d6, c4, a3, b5, a7, c8, b6, a8, c7, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2465
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, d7, e5, g6, h8, f7, d8, c6, a5, b7, d6, c8, a7, b5, a3, c4, b6, a8, c7, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2466
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, d7, e5, g6, h8, f7, d8, c6, a7, b5, a3, c4, a5, b7, d6, c8, b6, a8, c7, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2467
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, d7, e5, f7, h8, g6, f8, h7, g5, e6, d8, b7, a5, c6, a7, c8, b6, a8, c7, b5, a3, c4, d6, e4, g3, h1, 
+Complete tour: 2468
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, d7, e5, f7, h8, g6, f8, h7, g5, e6, d8, c6, a7, c8, b6, a8, c7, b5, a3, c4, a5, b7, d6, e4, g3, h1, 
+Complete tour: 2469
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, d7, e5, f7, h8, g6, f8, h7, g5, e6, c7, a8, b6, c8, a7, b5, a3, c4, a5, c6, d8, b7, d6, e4, g3, h1, 
+Complete tour: 2470
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, d7, e5, f7, h8, g6, f8, h7, g5, e6, c7, a8, b6, c8, a7, c6, d8, b7, a5, c4, a3, b5, d6, e4, g3, h1, 
+Complete tour: 2471
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, d7, e5, c6, a5, c4, a3, b5, a7, c8, b6, a8, c7, e6, g5, h7, f8, g6, h8, f7, d8, b7, d6, e4, g3, h1, 
+Complete tour: 2472
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, d7, e5, c6, a5, c4, a3, b5, a7, c8, b6, a8, c7, e6, d8, b7, d6, f7, h8, g6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2473
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, d7, e5, c6, a5, b7, d6, c4, a3, b5, a7, c8, b6, a8, c7, e6, d8, f7, h8, g6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2474
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, d7, e5, c6, a5, b7, d6, c8, a7, b5, a3, c4, b6, a8, c7, e6, d8, f7, h8, g6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2475
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, d7, e5, c6, a5, b7, d8, e6, c7, a8, b6, c4, a3, b5, a7, c8, d6, f7, h8, g6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2476
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, d7, e5, c6, a5, b7, d8, e6, c7, a8, b6, c8, a7, b5, a3, c4, d6, f7, h8, g6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2477
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, d7, e5, c6, a5, b7, d8, f7, h8, g6, f8, h7, g5, e6, c7, a8, b6, c4, a3, b5, a7, c8, d6, e4, g3, h1, 
+Complete tour: 2478
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, d7, e5, c6, a5, b7, d8, f7, h8, g6, f8, h7, g5, e6, c7, a8, b6, c8, a7, b5, a3, c4, d6, e4, g3, h1, 
+Complete tour: 2479
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, d7, e5, c6, d8, b7, a5, c4, a3, b5, a7, c8, b6, a8, c7, e6, g5, h7, f8, g6, h8, f7, d6, e4, g3, h1, 
+Complete tour: 2480
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, d7, e5, c6, d8, e6, c7, a8, b6, c8, a7, b5, a3, c4, a5, b7, d6, f7, h8, g6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2481
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, d7, e5, c6, d8, f7, h8, g6, f8, h7, g5, e6, c7, a8, b6, c8, a7, b5, a3, c4, a5, b7, d6, e4, g3, h1, 
+Complete tour: 2482
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, d7, e5, c6, a7, b5, a3, c4, a5, b7, d6, c8, b6, a8, c7, e6, d8, f7, h8, g6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2483
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, d7, e5, c6, a7, b5, a3, c4, a5, b7, d8, e6, c7, a8, b6, c8, d6, f7, h8, g6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2484
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, d7, e5, c6, a7, b5, a3, c4, a5, b7, d8, f7, h8, g6, f8, h7, g5, e6, c7, a8, b6, c8, d6, e4, g3, h1, 
+Complete tour: 2485
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, d7, e5, c6, a7, c8, b6, a8, c7, b5, a3, c4, a5, b7, d8, e6, g5, h7, f8, g6, h8, f7, d6, e4, g3, h1, 
+Complete tour: 2486
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, d7, e5, c6, a7, c8, b6, a8, c7, e6, g5, h7, f8, g6, h8, f7, d8, b7, a5, c4, a3, b5, d6, e4, g3, h1, 
+Complete tour: 2487
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, d7, e5, c6, a7, c8, b6, a8, c7, e6, d8, b7, a5, c4, a3, b5, d6, f7, h8, g6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2488
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, d7, f8, h7, g5, f7, h8, g6, e5, c4, a3, b5, a7, c6, a5, b7, d8, e6, c7, a8, b6, c8, d6, e4, g3, h1, 
+Complete tour: 2489
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, d7, f8, h7, g5, f7, h8, g6, e5, c4, a3, b5, a7, c8, b6, a8, c7, e6, d8, c6, a5, b7, d6, e4, g3, h1, 
+Complete tour: 2490
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, d7, f8, h7, g5, f7, h8, g6, e5, c6, a5, c4, a3, b5, a7, c8, b6, a8, c7, e6, d8, b7, d6, e4, g3, h1, 
+Complete tour: 2491
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, d7, f8, h7, g5, f7, h8, g6, e5, c6, a5, b7, d8, e6, c7, a8, b6, c4, a3, b5, a7, c8, d6, e4, g3, h1, 
+Complete tour: 2492
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, d7, f8, h7, g5, f7, h8, g6, e5, c6, a5, b7, d8, e6, c7, a8, b6, c8, a7, b5, a3, c4, d6, e4, g3, h1, 
+Complete tour: 2493
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, d7, f8, h7, g5, f7, h8, g6, e5, c6, d8, e6, c7, a8, b6, c8, a7, b5, a3, c4, a5, b7, d6, e4, g3, h1, 
+Complete tour: 2494
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, d7, f8, h7, g5, f7, h8, g6, e5, c6, a7, b5, a3, c4, a5, b7, d8, e6, c7, a8, b6, c8, d6, e4, g3, h1, 
+Complete tour: 2495
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, d7, f8, h7, g5, f7, h8, g6, e5, c6, a7, c8, b6, a8, c7, e6, d8, b7, a5, c4, a3, b5, d6, e4, g3, h1, 
+Complete tour: 2496
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, d7, f8, h7, g5, e6, d8, b7, a5, c4, a3, b5, c7, a8, b6, c8, a7, c6, e5, g6, h8, f7, d6, e4, g3, h1, 
+Complete tour: 2497
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, d7, f8, h7, g5, e6, d8, b7, a5, c6, a7, c8, b6, a8, c7, b5, a3, c4, e5, g6, h8, f7, d6, e4, g3, h1, 
+Complete tour: 2498
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, d7, f8, h7, g5, e6, d8, f7, h8, g6, e5, c4, a3, b5, c7, a8, b6, c8, a7, c6, a5, b7, d6, e4, g3, h1, 
+Complete tour: 2499
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, d7, f8, h7, g5, e6, d8, f7, h8, g6, e5, c6, a7, c8, b6, a8, c7, b5, a3, c4, a5, b7, d6, e4, g3, h1, 
+Complete tour: 2500
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, d7, f8, h7, g5, e6, c7, a8, b6, c8, a7, b5, a3, c4, e5, g6, h8, f7, d8, c6, a5, b7, d6, e4, g3, h1, 
+Complete tour: 2501
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, d7, f8, h7, g5, e6, c7, a8, b6, c8, a7, b5, a3, c4, a5, c6, e5, g6, h8, f7, d8, b7, d6, e4, g3, h1, 
+Complete tour: 2502
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, d7, f8, h7, g5, e6, c7, a8, b6, c8, a7, b5, a3, c4, a5, b7, d8, c6, e5, g6, h8, f7, d6, e4, g3, h1, 
+Complete tour: 2503
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, d7, f8, h7, g5, e6, c7, a8, b6, c8, a7, c6, a5, b7, d8, f7, h8, g6, e5, c4, a3, b5, d6, e4, g3, h1, 
+Complete tour: 2504
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b4, a6, b8, d7, f8, h7, g5, e6, c7, a8, b6, c8, a7, c6, e5, g6, h8, f7, d8, b7, a5, c4, a3, b5, d6, e4, g3, h1, 
+Complete tour: 2505
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, c7, a8, b6, c4, a3, b5, a7, c8, d6, f7, h8, g6, e5, d7, b8, a6, b4, c6, a5, b7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2506
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, c7, a8, b6, c4, a3, b5, a7, c8, d6, b7, a5, c6, b4, a6, b8, d7, e5, g6, h8, f7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2507
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, c7, a8, b6, d7, b8, a6, b4, c6, a5, b7, d6, c8, a7, b5, a3, c4, e5, g6, h8, f7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2508
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, c7, a8, b6, d7, b8, a6, b4, c6, a5, b7, d8, e6, g5, h7, f8, g6, h8, f7, e5, c4, a3, b5, a7, c8, d6, e4, g3, h1, 
+Complete tour: 2509
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, c7, a8, b6, d7, b8, a6, b4, c6, a5, b7, d8, e6, f8, h7, g5, f7, h8, g6, e5, c4, a3, b5, a7, c8, d6, e4, g3, h1, 
+Complete tour: 2510
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, c7, a8, b6, d7, b8, a6, b4, c6, e5, g6, h8, f7, d6, c8, a7, b5, a3, c4, a5, b7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2511
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, c7, a8, b6, d7, b8, a6, b4, c6, e5, g6, h8, f7, g5, h7, f8, e6, d8, b7, a5, c4, a3, b5, a7, c8, d6, e4, g3, h1, 
+Complete tour: 2512
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, c7, a8, b6, d7, b8, a6, b4, c6, e5, f7, h8, g6, f8, h7, g5, e6, d8, b7, a5, c4, a3, b5, a7, c8, d6, e4, g3, h1, 
+Complete tour: 2513
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, c7, a8, b6, c8, a7, b5, a3, c4, e5, g6, h8, f7, d8, e6, g5, h7, f8, d7, b8, a6, b4, c6, a5, b7, d6, e4, g3, h1, 
+Complete tour: 2514
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, c7, a8, b6, c8, a7, b5, a3, c4, e5, d7, b8, a6, b4, c6, a5, b7, d8, e6, g5, h7, f8, g6, h8, f7, d6, e4, g3, h1, 
+Complete tour: 2515
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, c7, a8, b6, c8, a7, b5, a3, c4, d6, f7, h8, g6, e5, d7, b8, a6, b4, c6, a5, b7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2516
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, c7, a8, b6, c8, a7, b5, a3, c4, d6, b7, a5, c6, b4, a6, b8, d7, e5, g6, h8, f7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2517
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, c7, a8, b6, c8, a7, b5, a3, c4, a5, c6, b4, a6, b8, d7, e5, g6, h8, f7, d6, b7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2518
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, c7, a8, b6, c8, a7, b5, a3, c4, a5, c6, b4, a6, b8, d7, e5, g6, h8, f7, g5, h7, f8, e6, d8, b7, d6, e4, g3, h1, 
+Complete tour: 2519
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, c7, a8, b6, c8, a7, b5, a3, c4, a5, c6, b4, a6, b8, d7, e5, f7, h8, g6, f8, h7, g5, e6, d8, b7, d6, e4, g3, h1, 
+Complete tour: 2520
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, c7, a8, b6, c8, a7, b5, a3, c4, a5, b7, d6, f7, h8, g6, e5, d7, b8, a6, b4, c6, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2521
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, c7, a8, b6, c8, a7, b5, a3, c4, a5, b7, d8, e6, g5, h7, f8, d7, b8, a6, b4, c6, e5, g6, h8, f7, d6, e4, g3, h1, 
+Complete tour: 2522
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, c7, a8, b6, c8, a7, c6, b4, a6, b8, d7, e5, g6, h8, f7, d6, b5, a3, c4, a5, b7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2523
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, c7, a8, b6, c8, a7, c6, b4, a6, b8, d7, e5, g6, h8, f7, g5, h7, f8, e6, d8, b7, a5, c4, a3, b5, d6, e4, g3, h1, 
+Complete tour: 2524
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, c7, a8, b6, c8, a7, c6, b4, a6, b8, d7, e5, f7, h8, g6, f8, h7, g5, e6, d8, b7, a5, c4, a3, b5, d6, e4, g3, h1, 
+Complete tour: 2525
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, c7, a8, b6, c8, d6, f7, h8, g6, e5, d7, b8, a6, b4, c6, a7, b5, a3, c4, a5, b7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2526
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, c7, a8, b6, c8, d6, b7, a5, c4, a3, b5, a7, c6, b4, a6, b8, d7, e5, g6, h8, f7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2527
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b6, a8, c7, a6, b4, c6, b8, d7, e5, g6, h8, f7, d6, c8, a7, b5, a3, c4, a5, b7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2528
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b6, a8, c7, a6, b4, c6, b8, d7, e5, g6, h8, f7, g5, h7, f8, e6, d8, b7, a5, c4, a3, b5, a7, c8, d6, e4, g3, h1, 
+Complete tour: 2529
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b6, a8, c7, a6, b4, c6, b8, d7, e5, f7, h8, g6, f8, h7, g5, e6, d8, b7, a5, c4, a3, b5, a7, c8, d6, e4, g3, h1, 
+Complete tour: 2530
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b6, a8, c7, b5, a3, c4, a5, b7, d6, c8, a7, c6, b4, a6, b8, d7, e5, g6, h8, f7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2531
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b6, a8, c7, b5, a3, c4, a5, b7, d8, e6, g5, h7, f8, g6, h8, f7, e5, d7, b8, a6, b4, c6, a7, c8, d6, e4, g3, h1, 
+Complete tour: 2532
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b6, a8, c7, b5, a3, c4, a5, b7, d8, e6, f8, h7, g5, f7, h8, g6, e5, d7, b8, a6, b4, c6, a7, c8, d6, e4, g3, h1, 
+Complete tour: 2533
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b6, a8, c7, e6, g5, h7, f8, d7, b8, a6, b4, c6, a5, b7, d8, f7, h8, g6, e5, c4, a3, b5, a7, c8, d6, e4, g3, h1, 
+Complete tour: 2534
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b6, a8, c7, e6, g5, h7, f8, d7, b8, a6, b4, c6, e5, g6, h8, f7, d8, b7, a5, c4, a3, b5, a7, c8, d6, e4, g3, h1, 
+Complete tour: 2535
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b6, a8, c7, e6, g5, h7, f8, g6, h8, f7, e5, d7, b8, a6, b4, c6, d8, b7, a5, c4, a3, b5, a7, c8, d6, e4, g3, h1, 
+Complete tour: 2536
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b6, a8, c7, e6, g5, h7, f8, g6, h8, f7, d8, b7, a5, c6, b4, a6, b8, d7, e5, c4, a3, b5, a7, c8, d6, e4, g3, h1, 
+Complete tour: 2537
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b6, a8, c7, e6, f8, h7, g5, f7, h8, g6, e5, d7, b8, a6, b4, c6, d8, b7, a5, c4, a3, b5, a7, c8, d6, e4, g3, h1, 
+Complete tour: 2538
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b6, a8, c7, e6, d8, b7, a5, c4, a3, b5, d6, c8, a7, c6, b4, a6, b8, d7, e5, f7, h8, g6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2539
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b6, a8, c7, e6, d8, b7, a5, c4, a3, b5, a7, c8, d6, f7, h8, g6, e5, c6, b4, a6, b8, d7, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2540
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b6, a8, c7, e6, d8, b7, a5, c6, b4, a6, b8, d7, e5, c4, a3, b5, a7, c8, d6, f7, h8, g6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2541
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b6, a8, c7, e6, d8, b7, a5, c6, b4, a6, b8, d7, f8, h7, g5, f7, h8, g6, e5, c4, a3, b5, a7, c8, d6, e4, g3, h1, 
+Complete tour: 2542
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b6, a8, c7, e6, d8, b7, d6, c8, a7, b5, a3, c4, a5, c6, b4, a6, b8, d7, e5, f7, h8, g6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2543
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, d5, b6, a8, c7, e6, d8, f7, h8, g6, e5, c4, a3, b5, a7, c8, d6, b7, a5, c6, b4, a6, b8, d7, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2544
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, g6, h8, f7, d6, b5, a3, c4, e5, d7, b8, a6, b4, d5, c7, a8, b6, c8, a7, c6, a5, b7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2545
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, g6, h8, f7, d6, c4, a3, b5, a7, c8, b6, a8, c7, d5, b4, a6, b8, d7, e5, c6, a5, b7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2546
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, g6, h8, f7, d6, c8, a7, b5, a3, c4, e5, d7, b6, a8, c7, d5, b4, a6, b8, c6, a5, b7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2547
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, g6, h8, f7, d6, c8, a7, b5, a3, c4, e5, d7, b8, a6, c7, a8, b6, d5, b4, c6, a5, b7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2548
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, g6, h8, f7, d6, c8, a7, b5, a3, c4, e5, c6, a5, b7, d8, e6, c7, a8, b6, d5, b4, a6, b8, d7, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2549
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, g6, h8, f7, d6, c8, a7, b5, a3, c4, b6, a8, c7, d5, b4, a6, b8, d7, e5, c6, a5, b7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2550
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, g6, h8, f7, d6, c8, a7, b5, a3, c4, a5, b7, d8, c6, e5, d7, b8, a6, b4, d5, b6, a8, c7, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2551
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, g6, h8, f7, d6, c8, a7, b5, a3, c4, a5, b7, d8, e6, c7, a8, b6, d5, b4, a6, b8, c6, e5, d7, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2552
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, g6, h8, f7, d6, c8, a7, c6, e5, d7, b8, a6, b4, d5, b6, a8, c7, b5, a3, c4, a5, b7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2553
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, g6, h8, f7, d6, c8, b6, a8, c7, d5, b4, a6, b8, d7, e5, c4, a3, b5, a7, c6, a5, b7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2554
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, g6, h8, f7, d6, c8, b6, a8, c7, d5, b4, a6, b8, d7, e5, c6, a7, b5, a3, c4, a5, b7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2555
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, g6, h8, f7, d6, b7, a5, c4, a3, b5, a7, c8, b6, a8, c7, d5, b4, a6, b8, d7, e5, c6, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2556
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, g6, h8, f7, e5, c4, a3, b5, d6, c8, a7, c6, a5, b7, d8, e6, c7, a8, b6, d5, b4, a6, b8, d7, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2557
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, g6, h8, f7, e5, c4, a3, b5, c7, a8, b6, d5, b4, a6, b8, d7, f8, h7, g5, e6, d8, b7, a5, c6, a7, c8, d6, e4, g3, h1, 
+Complete tour: 2558
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, g6, h8, f7, e5, c4, a3, b5, a7, c6, a5, b7, d8, e6, g5, h7, f8, d7, b8, a6, b4, d5, c7, a8, b6, c8, d6, e4, g3, h1, 
+Complete tour: 2559
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, g6, h8, f7, e5, c4, a3, b5, a7, c8, b6, a8, c7, d5, b4, a6, b8, d7, f8, h7, g5, e6, d8, c6, a5, b7, d6, e4, g3, h1, 
+Complete tour: 2560
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, g6, h8, f7, e5, c4, a3, b5, a7, c8, d6, b7, a5, c6, d8, e6, c7, a8, b6, d5, b4, a6, b8, d7, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2561
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, g6, h8, f7, e5, d7, b6, a8, c7, d5, b4, a6, b8, c6, a5, c4, a3, b5, a7, c8, d6, b7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2562
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, g6, h8, f7, e5, d7, b6, a8, c7, d5, b4, a6, b8, c6, a7, c8, d6, b5, a3, c4, a5, b7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2563
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, g6, h8, f7, e5, d7, f8, h7, g5, e6, d8, b7, a5, c4, a3, b5, c7, a8, b6, d5, b4, a6, b8, c6, a7, c8, d6, e4, g3, h1, 
+Complete tour: 2564
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, g6, h8, f7, e5, d7, f8, h7, g5, e6, d8, b7, a5, c4, a3, b5, a7, c6, b8, a6, b4, d5, c7, a8, b6, c8, d6, e4, g3, h1, 
+Complete tour: 2565
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, g6, h8, f7, e5, d7, f8, h7, g5, e6, d8, b7, a5, c6, b8, a6, b4, d5, c7, a8, b6, c4, a3, b5, a7, c8, d6, e4, g3, h1, 
+Complete tour: 2566
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, g6, h8, f7, e5, d7, f8, h7, g5, e6, d8, b7, a5, c6, b8, a6, b4, d5, c7, a8, b6, c8, a7, b5, a3, c4, d6, e4, g3, h1, 
+Complete tour: 2567
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, g6, h8, f7, e5, d7, f8, h7, g5, e6, d8, c6, b8, a6, b4, d5, c7, a8, b6, c8, a7, b5, a3, c4, a5, b7, d6, e4, g3, h1, 
+Complete tour: 2568
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, g6, h8, f7, e5, d7, f8, h7, g5, e6, c7, a8, b6, d5, b4, a6, b8, c6, d8, b7, a5, c4, a3, b5, a7, c8, d6, e4, g3, h1, 
+Complete tour: 2569
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, g6, h8, f7, e5, d7, b8, a6, b4, d5, c7, a8, b6, c4, a3, b5, d6, c8, a7, c6, a5, b7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2570
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, g6, h8, f7, e5, d7, b8, a6, b4, d5, c7, a8, b6, c4, a3, b5, a7, c8, d6, b7, a5, c6, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2571
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, g6, h8, f7, e5, d7, b8, a6, b4, d5, c7, a8, b6, c8, a7, b5, a3, c4, d6, b7, a5, c6, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2572
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, g6, h8, f7, e5, d7, b8, a6, b4, d5, c7, a8, b6, c8, a7, c6, a5, c4, a3, b5, d6, b7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2573
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, g6, h8, f7, e5, d7, b8, a6, b4, d5, c7, a8, b6, c8, d6, c4, a3, b5, a7, c6, a5, b7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2574
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, g6, h8, f7, e5, d7, b8, a6, b4, d5, c7, a8, b6, c8, d6, b7, a5, c4, a3, b5, a7, c6, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2575
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, g6, h8, f7, e5, d7, b8, a6, b4, d5, b6, a8, c7, b5, a3, c4, d6, c8, a7, c6, a5, b7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2576
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, g6, h8, f7, e5, d7, b8, a6, b4, d5, b6, a8, c7, b5, a3, c4, a5, c6, a7, c8, d6, b7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2577
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, g6, h8, f7, e5, d7, b8, a6, b4, d5, b6, a8, c7, b5, a3, c4, a5, b7, d6, c8, a7, c6, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2578
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, g6, h8, f7, e5, d7, b8, a6, c7, a8, b6, d5, b4, c6, a5, c4, a3, b5, a7, c8, d6, b7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2579
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, g6, h8, f7, e5, d7, b8, a6, c7, a8, b6, d5, b4, c6, a7, c8, d6, b5, a3, c4, a5, b7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2580
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, g6, h8, f7, e5, c6, a5, c4, a3, b5, a7, c8, b6, a8, c7, d5, b4, a6, b8, d7, f8, h7, g5, e6, d8, b7, d6, e4, g3, h1, 
+Complete tour: 2581
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, g6, h8, f7, e5, c6, a5, c4, a3, b5, a7, c8, d6, b7, d8, e6, c7, a8, b6, d5, b4, a6, b8, d7, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2582
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, g6, h8, f7, e5, c6, a5, b7, d8, e6, g5, h7, f8, d7, b8, a6, b4, d5, c7, a8, b6, c4, a3, b5, a7, c8, d6, e4, g3, h1, 
+Complete tour: 2583
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, g6, h8, f7, e5, c6, a5, b7, d8, e6, g5, h7, f8, d7, b8, a6, b4, d5, c7, a8, b6, c8, a7, b5, a3, c4, d6, e4, g3, h1, 
+Complete tour: 2584
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, g6, h8, f7, e5, c6, b4, d5, b6, a8, c7, a6, b8, d7, f8, h7, g5, e6, d8, b7, a5, c4, a3, b5, a7, c8, d6, e4, g3, h1, 
+Complete tour: 2585
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, g6, h8, f7, e5, c6, d8, e6, g5, h7, f8, d7, b8, a6, b4, d5, c7, a8, b6, c8, a7, b5, a3, c4, a5, b7, d6, e4, g3, h1, 
+Complete tour: 2586
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, g6, h8, f7, e5, c6, b8, a6, b4, d5, c7, a8, b6, d7, f8, h7, g5, e6, d8, b7, a5, c4, a3, b5, a7, c8, d6, e4, g3, h1, 
+Complete tour: 2587
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, g6, h8, f7, e5, c6, a7, b5, a3, c4, a5, b7, d8, e6, g5, h7, f8, d7, b8, a6, b4, d5, c7, a8, b6, c8, d6, e4, g3, h1, 
+Complete tour: 2588
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, g6, h8, f7, e5, c6, a7, c8, b6, a8, c7, d5, b4, a6, b8, d7, f8, h7, g5, e6, d8, b7, a5, c4, a3, b5, d6, e4, g3, h1, 
+Complete tour: 2589
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, g6, h8, f7, e5, c6, a7, c8, d6, b5, a3, c4, a5, b7, d8, e6, c7, a8, b6, d5, b4, a6, b8, d7, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2590
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, g6, h8, f7, g5, h7, f8, d7, e5, c6, b8, a6, b4, d5, b6, a8, c7, e6, d8, b7, a5, c4, a3, b5, a7, c8, d6, e4, g3, h1, 
+Complete tour: 2591
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, g6, h8, f7, g5, h7, f8, d7, b8, a6, b4, d5, b6, a8, c7, e6, d8, b7, a5, c6, e5, c4, a3, b5, a7, c8, d6, e4, g3, h1, 
+Complete tour: 2592
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, g6, h8, f7, g5, h7, f8, e6, d8, b7, a5, c4, a3, b5, c7, a8, b6, d5, b4, a6, b8, d7, e5, c6, a7, c8, d6, e4, g3, h1, 
+Complete tour: 2593
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, g6, h8, f7, g5, h7, f8, e6, d8, b7, a5, c4, a3, b5, a7, c6, e5, d7, b8, a6, b4, d5, c7, a8, b6, c8, d6, e4, g3, h1, 
+Complete tour: 2594
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, g6, h8, f7, g5, h7, f8, e6, d8, b7, a5, c6, b4, d5, b6, a8, c7, a6, b8, d7, e5, c4, a3, b5, a7, c8, d6, e4, g3, h1, 
+Complete tour: 2595
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, g6, h8, f7, g5, h7, f8, e6, d8, b7, a5, c6, e5, d7, b8, a6, b4, d5, c7, a8, b6, c4, a3, b5, a7, c8, d6, e4, g3, h1, 
+Complete tour: 2596
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, g6, h8, f7, g5, h7, f8, e6, d8, b7, a5, c6, e5, d7, b8, a6, b4, d5, c7, a8, b6, c8, a7, b5, a3, c4, d6, e4, g3, h1, 
+Complete tour: 2597
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, g6, h8, f7, g5, h7, f8, e6, d8, b7, a5, c6, b8, a6, b4, d5, c7, a8, b6, d7, e5, c4, a3, b5, a7, c8, d6, e4, g3, h1, 
+Complete tour: 2598
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, g6, h8, f7, g5, h7, f8, e6, d8, b7, a5, c6, a7, b5, a3, c4, e5, d7, b8, a6, b4, d5, c7, a8, b6, c8, d6, e4, g3, h1, 
+Complete tour: 2599
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, g6, h8, f7, g5, h7, f8, e6, d8, b7, a5, c6, a7, c8, b6, a8, c7, d5, b4, a6, b8, d7, e5, c4, a3, b5, d6, e4, g3, h1, 
+Complete tour: 2600
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, g6, h8, f7, g5, h7, f8, e6, d8, c6, e5, d7, b8, a6, b4, d5, c7, a8, b6, c8, a7, b5, a3, c4, a5, b7, d6, e4, g3, h1, 
+Complete tour: 2601
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, g6, h8, f7, g5, h7, f8, e6, c7, a8, b6, d5, b4, a6, b8, d7, e5, c6, d8, b7, a5, c4, a3, b5, a7, c8, d6, e4, g3, h1, 
+Complete tour: 2602
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, g6, h8, f7, d8, b7, a5, c4, a3, b5, d6, c8, a7, c6, e5, d7, b8, a6, b4, d5, b6, a8, c7, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2603
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, g6, h8, f7, d8, b7, a5, c6, b8, a6, b4, d5, b6, a8, c7, e6, g5, h7, f8, d7, e5, c4, a3, b5, a7, c8, d6, e4, g3, h1, 
+Complete tour: 2604
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, g6, h8, f7, d8, b7, a5, c6, a7, c8, d6, b5, a3, c4, e5, d7, b8, a6, b4, d5, b6, a8, c7, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2605
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, g6, h8, f7, d8, b7, d6, c8, a7, b5, a3, c4, a5, c6, e5, d7, b8, a6, b4, d5, b6, a8, c7, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2606
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, g6, h8, f7, d8, c6, a5, b7, d6, c8, a7, b5, a3, c4, e5, d7, b8, a6, b4, d5, b6, a8, c7, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2607
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, g6, h8, f7, d8, e6, g5, h7, f8, d7, e5, c4, a3, b5, a7, c8, b6, a8, c7, d5, b4, a6, b8, c6, a5, b7, d6, e4, g3, h1, 
+Complete tour: 2608
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, g6, h8, f7, d8, e6, g5, h7, f8, d7, e5, c6, b8, a6, b4, d5, c7, a8, b6, c8, a7, b5, a3, c4, a5, b7, d6, e4, g3, h1, 
+Complete tour: 2609
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, g6, h8, f7, d8, e6, g5, h7, f8, d7, b8, a6, b4, d5, c7, a8, b6, c8, a7, b5, a3, c4, e5, c6, a5, b7, d6, e4, g3, h1, 
+Complete tour: 2610
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, g6, h8, f7, d8, e6, c7, a8, b6, d5, b4, a6, b8, c6, a5, b7, d6, c8, a7, b5, a3, c4, e5, d7, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2611
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, a7, b5, a3, c4, e5, g6, h8, f7, d6, b7, a5, c6, d8, e6, c7, a8, b6, d5, b4, a6, b8, d7, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2612
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, a7, b5, a3, c4, e5, g6, h8, f7, g5, h7, f8, d7, b8, a6, b4, d5, b6, a8, c7, e6, d8, c6, a5, b7, d6, e4, g3, h1, 
+Complete tour: 2613
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, a7, b5, a3, c4, e5, g6, h8, f7, d8, e6, g5, h7, f8, d7, b6, a8, c7, d5, b4, a6, b8, c6, a5, b7, d6, e4, g3, h1, 
+Complete tour: 2614
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, a7, b5, a3, c4, e5, g6, h8, f7, d8, e6, g5, h7, f8, d7, b8, a6, c7, a8, b6, d5, b4, c6, a5, b7, d6, e4, g3, h1, 
+Complete tour: 2615
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, a7, b5, a3, c4, e5, d7, b6, a8, c7, d5, b4, a6, b8, c6, a5, b7, d8, e6, g5, h7, f8, g6, h8, f7, d6, e4, g3, h1, 
+Complete tour: 2616
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, a7, b5, a3, c4, e5, d7, b8, a6, b4, d5, b6, a8, c7, e6, g5, h7, f8, g6, h8, f7, d8, c6, a5, b7, d6, e4, g3, h1, 
+Complete tour: 2617
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, a7, b5, a3, c4, e5, d7, b8, a6, b4, d5, b6, a8, c7, e6, d8, c6, a5, b7, d6, f7, h8, g6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2618
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, a7, b5, a3, c4, e5, d7, b8, a6, c7, a8, b6, d5, b4, c6, a5, b7, d8, e6, g5, h7, f8, g6, h8, f7, d6, e4, g3, h1, 
+Complete tour: 2619
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, a7, b5, a3, c4, d6, f7, h8, g6, e5, d7, b6, a8, c7, d5, b4, a6, b8, c6, a5, b7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2620
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, a7, b5, a3, c4, d6, f7, h8, g6, e5, d7, b8, a6, c7, a8, b6, d5, b4, c6, a5, b7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2621
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, a7, b5, a3, c4, d6, f7, h8, g6, e5, c6, a5, b7, d8, e6, c7, a8, b6, d5, b4, a6, b8, d7, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2622
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, a7, b5, a3, c4, d6, b7, a5, c6, b4, d5, b6, a8, c7, a6, b8, d7, e5, g6, h8, f7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2623
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, a7, b5, a3, c4, d6, b7, a5, c6, e5, g6, h8, f7, d8, e6, c7, a8, b6, d5, b4, a6, b8, d7, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2624
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, a7, b5, a3, c4, d6, b7, a5, c6, e5, d7, b8, a6, b4, d5, b6, a8, c7, e6, d8, f7, h8, g6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2625
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, a7, b5, a3, c4, d6, b7, a5, c6, d8, e6, c7, a8, b6, d5, b4, a6, b8, d7, e5, f7, h8, g6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2626
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, a7, b5, a3, c4, d6, b7, a5, c6, d8, f7, h8, g6, e5, d7, b8, a6, b4, d5, b6, a8, c7, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2627
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, a7, b5, a3, c4, d6, b7, a5, c6, b8, a6, b4, d5, c7, a8, b6, d7, e5, g6, h8, f7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2628
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, a7, b5, a3, c4, d6, b7, a5, c6, b8, a6, b4, d5, b6, a8, c7, e6, d8, f7, h8, g6, e5, d7, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2629
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, a7, b5, a3, c4, b6, a8, c7, d5, b4, a6, b8, c6, a5, b7, d8, e6, g5, h7, f8, d7, e5, g6, h8, f7, d6, e4, g3, h1, 
+Complete tour: 2630
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, a7, b5, a3, c4, b6, a8, c7, d5, b4, a6, b8, d7, e5, g6, h8, f7, d6, b7, a5, c6, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2631
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, a7, b5, a3, c4, b6, a8, c7, d5, b4, a6, b8, d7, e5, g6, h8, f7, g5, h7, f8, e6, d8, c6, a5, b7, d6, e4, g3, h1, 
+Complete tour: 2632
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, a7, b5, a3, c4, b6, a8, c7, d5, b4, a6, b8, d7, e5, f7, h8, g6, f8, h7, g5, e6, d8, c6, a5, b7, d6, e4, g3, h1, 
+Complete tour: 2633
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, a7, b5, a3, c4, b6, a8, c7, d5, b4, a6, b8, d7, e5, c6, a5, b7, d8, e6, g5, h7, f8, g6, h8, f7, d6, e4, g3, h1, 
+Complete tour: 2634
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, a7, b5, a3, c4, b6, a8, c7, d5, b4, a6, b8, d7, f8, h7, g5, e6, d8, b7, a5, c6, e5, g6, h8, f7, d6, e4, g3, h1, 
+Complete tour: 2635
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, a7, b5, a3, c4, b6, a8, c7, d5, b4, a6, b8, d7, f8, h7, g5, e6, d8, f7, h8, g6, e5, c6, a5, b7, d6, e4, g3, h1, 
+Complete tour: 2636
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, a7, b5, a3, c4, a5, c6, b4, d5, b6, a8, c7, a6, b8, d7, e5, g6, h8, f7, d6, b7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2637
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, a7, b5, a3, c4, a5, c6, b4, d5, b6, a8, c7, a6, b8, d7, e5, g6, h8, f7, g5, h7, f8, e6, d8, b7, d6, e4, g3, h1, 
+Complete tour: 2638
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, a7, b5, a3, c4, a5, c6, b4, d5, b6, a8, c7, a6, b8, d7, e5, f7, h8, g6, f8, h7, g5, e6, d8, b7, d6, e4, g3, h1, 
+Complete tour: 2639
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, a7, b5, a3, c4, a5, c6, e5, g6, h8, f7, d6, b7, d8, e6, c7, a8, b6, d5, b4, a6, b8, d7, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2640
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, a7, b5, a3, c4, a5, c6, e5, g6, h8, f7, g5, h7, f8, d7, b8, a6, b4, d5, b6, a8, c7, e6, d8, b7, d6, e4, g3, h1, 
+Complete tour: 2641
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, a7, b5, a3, c4, a5, c6, e5, d7, b8, a6, b4, d5, b6, a8, c7, e6, g5, h7, f8, g6, h8, f7, d8, b7, d6, e4, g3, h1, 
+Complete tour: 2642
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, a7, b5, a3, c4, a5, c6, e5, d7, b8, a6, b4, d5, b6, a8, c7, e6, d8, b7, d6, f7, h8, g6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2643
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, a7, b5, a3, c4, a5, c6, d8, b7, d6, f7, h8, g6, e5, d7, b8, a6, b4, d5, b6, a8, c7, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2644
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, a7, b5, a3, c4, a5, c6, b8, a6, b4, d5, c7, a8, b6, d7, e5, g6, h8, f7, d6, b7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2645
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, a7, b5, a3, c4, a5, c6, b8, a6, b4, d5, c7, a8, b6, d7, e5, g6, h8, f7, g5, h7, f8, e6, d8, b7, d6, e4, g3, h1, 
+Complete tour: 2646
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, a7, b5, a3, c4, a5, c6, b8, a6, b4, d5, c7, a8, b6, d7, e5, f7, h8, g6, f8, h7, g5, e6, d8, b7, d6, e4, g3, h1, 
+Complete tour: 2647
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, a7, b5, a3, c4, a5, c6, b8, a6, b4, d5, b6, a8, c7, e6, g5, h7, f8, d7, e5, g6, h8, f7, d8, b7, d6, e4, g3, h1, 
+Complete tour: 2648
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, a7, b5, a3, c4, a5, c6, b8, a6, b4, d5, b6, a8, c7, e6, d8, b7, d6, f7, h8, g6, e5, d7, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2649
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, a7, b5, a3, c4, a5, b7, d6, f7, h8, g6, e5, d7, b6, a8, c7, d5, b4, a6, b8, c6, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2650
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, a7, b5, a3, c4, a5, b7, d6, f7, h8, g6, e5, d7, b8, a6, c7, a8, b6, d5, b4, c6, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2651
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, a7, b5, a3, c4, a5, b7, d6, f7, h8, g6, e5, c6, d8, e6, c7, a8, b6, d5, b4, a6, b8, d7, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2652
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, a7, b5, a3, c4, a5, b7, d8, c6, e5, d7, b8, a6, b4, d5, b6, a8, c7, e6, g5, h7, f8, g6, h8, f7, d6, e4, g3, h1, 
+Complete tour: 2653
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, a7, b5, a3, c4, a5, b7, d8, c6, b8, a6, b4, d5, b6, a8, c7, e6, g5, h7, f8, d7, e5, g6, h8, f7, d6, e4, g3, h1, 
+Complete tour: 2654
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, a7, b5, a3, c4, a5, b7, d8, e6, g5, h7, f8, d7, b6, a8, c7, d5, b4, a6, b8, c6, e5, g6, h8, f7, d6, e4, g3, h1, 
+Complete tour: 2655
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, a7, b5, a3, c4, a5, b7, d8, e6, g5, h7, f8, d7, b8, a6, c7, a8, b6, d5, b4, c6, e5, g6, h8, f7, d6, e4, g3, h1, 
+Complete tour: 2656
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, a7, c6, a5, c4, a3, b5, d6, b7, d8, e6, c7, a8, b6, d5, b4, a6, b8, d7, e5, f7, h8, g6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2657
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, a7, c6, a5, c4, a3, b5, d6, b7, d8, f7, h8, g6, e5, d7, b8, a6, b4, d5, b6, a8, c7, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2658
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, a7, c6, a5, c4, a3, b5, c7, a8, b6, d5, b4, a6, b8, d7, e5, g6, h8, f7, d6, b7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2659
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, a7, c6, a5, c4, a3, b5, c7, a8, b6, d5, b4, a6, b8, d7, e5, g6, h8, f7, g5, h7, f8, e6, d8, b7, d6, e4, g3, h1, 
+Complete tour: 2660
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, a7, c6, a5, c4, a3, b5, c7, a8, b6, d5, b4, a6, b8, d7, e5, f7, h8, g6, f8, h7, g5, e6, d8, b7, d6, e4, g3, h1, 
+Complete tour: 2661
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, a7, c6, a5, b7, d6, b5, a3, c4, e5, g6, h8, f7, d8, e6, c7, a8, b6, d5, b4, a6, b8, d7, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2662
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, a7, c6, a5, b7, d6, b5, a3, c4, e5, d7, b8, a6, b4, d5, b6, a8, c7, e6, d8, f7, h8, g6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2663
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, a7, c6, a5, b7, d6, b5, a3, c4, b6, a8, c7, d5, b4, a6, b8, d7, e5, g6, h8, f7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2664
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, a7, c6, a5, b7, d6, c4, a3, b5, c7, a8, b6, d5, b4, a6, b8, d7, e5, g6, h8, f7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2665
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, a7, c6, a5, b7, d8, e6, g5, h7, f8, d7, b8, a6, b4, d5, b6, a8, c7, b5, a3, c4, e5, g6, h8, f7, d6, e4, g3, h1, 
+Complete tour: 2666
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, a7, c6, a5, b7, d8, e6, g5, h7, f8, g6, h8, f7, e5, d7, b8, a6, b4, d5, c7, a8, b6, c4, a3, b5, d6, e4, g3, h1, 
+Complete tour: 2667
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, a7, c6, a5, b7, d8, e6, g5, h7, f8, g6, h8, f7, e5, d7, b8, a6, b4, d5, b6, a8, c7, b5, a3, c4, d6, e4, g3, h1, 
+Complete tour: 2668
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, a7, c6, a5, b7, d8, e6, f8, h7, g5, f7, h8, g6, e5, d7, b8, a6, b4, d5, c7, a8, b6, c4, a3, b5, d6, e4, g3, h1, 
+Complete tour: 2669
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, a7, c6, a5, b7, d8, e6, f8, h7, g5, f7, h8, g6, e5, d7, b8, a6, b4, d5, b6, a8, c7, b5, a3, c4, d6, e4, g3, h1, 
+Complete tour: 2670
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, a7, c6, a5, b7, d8, e6, c7, a8, b6, d5, b4, a6, b8, d7, e5, c4, a3, b5, d6, f7, h8, g6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2671
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, a7, c6, a5, b7, d8, e6, c7, a8, b6, d5, b4, a6, b8, d7, f8, h7, g5, f7, h8, g6, e5, c4, a3, b5, d6, e4, g3, h1, 
+Complete tour: 2672
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, a7, c6, a5, b7, d8, f7, h8, g6, f8, h7, g5, e6, c7, a8, b6, d5, b4, a6, b8, d7, e5, c4, a3, b5, d6, e4, g3, h1, 
+Complete tour: 2673
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, a7, c6, b4, d5, b6, a8, c7, a6, b8, d7, e5, g6, h8, f7, d6, b5, a3, c4, a5, b7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2674
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, a7, c6, b4, d5, b6, a8, c7, a6, b8, d7, e5, g6, h8, f7, g5, h7, f8, e6, d8, b7, a5, c4, a3, b5, d6, e4, g3, h1, 
+Complete tour: 2675
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, a7, c6, b4, d5, b6, a8, c7, a6, b8, d7, e5, f7, h8, g6, f8, h7, g5, e6, d8, b7, a5, c4, a3, b5, d6, e4, g3, h1, 
+Complete tour: 2676
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, a7, c6, e5, g6, h8, f7, d6, b5, a3, c4, a5, b7, d8, e6, c7, a8, b6, d5, b4, a6, b8, d7, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2677
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, a7, c6, e5, g6, h8, f7, g5, h7, f8, d7, b8, a6, b4, d5, b6, a8, c7, e6, d8, b7, a5, c4, a3, b5, d6, e4, g3, h1, 
+Complete tour: 2678
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, a7, c6, e5, g6, h8, f7, d8, e6, g5, h7, f8, d7, b8, a6, b4, d5, b6, a8, c7, b5, a3, c4, a5, b7, d6, e4, g3, h1, 
+Complete tour: 2679
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, a7, c6, e5, d7, b8, a6, b4, d5, b6, a8, c7, b5, a3, c4, a5, b7, d8, e6, g5, h7, f8, g6, h8, f7, d6, e4, g3, h1, 
+Complete tour: 2680
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, a7, c6, e5, d7, b8, a6, b4, d5, b6, a8, c7, e6, g5, h7, f8, g6, h8, f7, d8, b7, a5, c4, a3, b5, d6, e4, g3, h1, 
+Complete tour: 2681
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, a7, c6, e5, d7, b8, a6, b4, d5, b6, a8, c7, e6, d8, b7, a5, c4, a3, b5, d6, f7, h8, g6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2682
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, a7, c6, d8, b7, a5, c4, a3, b5, d6, f7, h8, g6, e5, d7, b8, a6, b4, d5, b6, a8, c7, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2683
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, a7, c6, d8, e6, g5, h7, f8, g6, h8, f7, e5, d7, b8, a6, b4, d5, b6, a8, c7, b5, a3, c4, a5, b7, d6, e4, g3, h1, 
+Complete tour: 2684
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, a7, c6, d8, e6, f8, h7, g5, f7, h8, g6, e5, d7, b8, a6, b4, d5, b6, a8, c7, b5, a3, c4, a5, b7, d6, e4, g3, h1, 
+Complete tour: 2685
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, a7, c6, b8, a6, b4, d5, c7, a8, b6, d7, e5, g6, h8, f7, d6, b5, a3, c4, a5, b7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2686
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, a7, c6, b8, a6, b4, d5, c7, a8, b6, d7, e5, g6, h8, f7, g5, h7, f8, e6, d8, b7, a5, c4, a3, b5, d6, e4, g3, h1, 
+Complete tour: 2687
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, a7, c6, b8, a6, b4, d5, c7, a8, b6, d7, e5, f7, h8, g6, f8, h7, g5, e6, d8, b7, a5, c4, a3, b5, d6, e4, g3, h1, 
+Complete tour: 2688
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, a7, c6, b8, a6, b4, d5, b6, a8, c7, b5, a3, c4, a5, b7, d8, e6, g5, h7, f8, d7, e5, g6, h8, f7, d6, e4, g3, h1, 
+Complete tour: 2689
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, a7, c6, b8, a6, b4, d5, b6, a8, c7, e6, g5, h7, f8, d7, e5, g6, h8, f7, d8, b7, a5, c4, a3, b5, d6, e4, g3, h1, 
+Complete tour: 2690
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, a7, c6, b8, a6, b4, d5, b6, a8, c7, e6, d8, b7, a5, c4, a3, b5, d6, f7, h8, g6, e5, d7, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2691
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, b6, a8, c7, d5, b4, a6, b8, c6, a7, b5, a3, c4, a5, b7, d8, e6, g5, h7, f8, d7, e5, g6, h8, f7, d6, e4, g3, h1, 
+Complete tour: 2692
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, b6, a8, c7, d5, b4, a6, b8, d7, e5, c4, a3, b5, a7, c6, a5, b7, d8, e6, g5, h7, f8, g6, h8, f7, d6, e4, g3, h1, 
+Complete tour: 2693
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, b6, a8, c7, d5, b4, a6, b8, d7, e5, g6, h8, f7, d6, c4, a3, b5, a7, c6, a5, b7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2694
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, b6, a8, c7, d5, b4, a6, b8, d7, e5, g6, h8, f7, d6, b7, a5, c4, a3, b5, a7, c6, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2695
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, b6, a8, c7, d5, b4, a6, b8, d7, e5, g6, h8, f7, g5, h7, f8, e6, d8, b7, a5, c6, a7, b5, a3, c4, d6, e4, g3, h1, 
+Complete tour: 2696
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, b6, a8, c7, d5, b4, a6, b8, d7, e5, g6, h8, f7, g5, h7, f8, e6, d8, c6, a7, b5, a3, c4, a5, b7, d6, e4, g3, h1, 
+Complete tour: 2697
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, b6, a8, c7, d5, b4, a6, b8, d7, e5, f7, h8, g6, f8, h7, g5, e6, d8, b7, a5, c6, a7, b5, a3, c4, d6, e4, g3, h1, 
+Complete tour: 2698
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, b6, a8, c7, d5, b4, a6, b8, d7, e5, f7, h8, g6, f8, h7, g5, e6, d8, c6, a7, b5, a3, c4, a5, b7, d6, e4, g3, h1, 
+Complete tour: 2699
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, b6, a8, c7, d5, b4, a6, b8, d7, e5, c6, a7, b5, a3, c4, a5, b7, d8, e6, g5, h7, f8, g6, h8, f7, d6, e4, g3, h1, 
+Complete tour: 2700
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, b6, a8, c7, d5, b4, a6, b8, d7, f8, h7, g5, e6, d8, b7, a5, c4, a3, b5, a7, c6, e5, g6, h8, f7, d6, e4, g3, h1, 
+Complete tour: 2701
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, b6, a8, c7, d5, b4, a6, b8, d7, f8, h7, g5, e6, d8, b7, a5, c6, a7, b5, a3, c4, e5, g6, h8, f7, d6, e4, g3, h1, 
+Complete tour: 2702
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, b6, a8, c7, d5, b4, a6, b8, d7, f8, h7, g5, e6, d8, f7, h8, g6, e5, c4, a3, b5, a7, c6, a5, b7, d6, e4, g3, h1, 
+Complete tour: 2703
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, b6, a8, c7, d5, b4, a6, b8, d7, f8, h7, g5, e6, d8, f7, h8, g6, e5, c6, a7, b5, a3, c4, a5, b7, d6, e4, g3, h1, 
+Complete tour: 2704
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, d6, c4, a3, b5, a7, c6, a5, b7, d8, e6, c7, a8, b6, d5, b4, a6, b8, d7, e5, f7, h8, g6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2705
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, d6, c4, a3, b5, a7, c6, a5, b7, d8, f7, h8, g6, e5, d7, b8, a6, b4, d5, b6, a8, c7, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2706
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, d6, f7, h8, g6, e5, c4, a3, b5, a7, c6, a5, b7, d8, e6, c7, a8, b6, d5, b4, a6, b8, d7, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2707
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, d6, f7, h8, g6, e5, d7, b6, a8, c7, d5, b4, a6, b8, c6, a7, b5, a3, c4, a5, b7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2708
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, d6, f7, h8, g6, e5, d7, b8, a6, b4, d5, c7, a8, b6, c4, a3, b5, a7, c6, a5, b7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2709
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, d6, f7, h8, g6, e5, d7, b8, a6, c7, a8, b6, d5, b4, c6, a7, b5, a3, c4, a5, b7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2710
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, d6, f7, h8, g6, e5, c6, a7, b5, a3, c4, a5, b7, d8, e6, c7, a8, b6, d5, b4, a6, b8, d7, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2711
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, d6, b7, a5, c4, a3, b5, a7, c6, b4, d5, b6, a8, c7, a6, b8, d7, e5, g6, h8, f7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2712
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, d6, b7, a5, c4, a3, b5, a7, c6, e5, g6, h8, f7, d8, e6, c7, a8, b6, d5, b4, a6, b8, d7, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2713
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, d6, b7, a5, c4, a3, b5, a7, c6, e5, d7, b8, a6, b4, d5, b6, a8, c7, e6, d8, f7, h8, g6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2714
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, d6, b7, a5, c4, a3, b5, a7, c6, d8, e6, c7, a8, b6, d5, b4, a6, b8, d7, e5, f7, h8, g6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2715
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, d6, b7, a5, c4, a3, b5, a7, c6, d8, f7, h8, g6, e5, d7, b8, a6, b4, d5, b6, a8, c7, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2716
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, d6, b7, a5, c4, a3, b5, a7, c6, b8, a6, b4, d5, c7, a8, b6, d7, e5, g6, h8, f7, d8, e6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2717
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, d6, b7, a5, c4, a3, b5, a7, c6, b8, a6, b4, d5, b6, a8, c7, e6, d8, f7, h8, g6, e5, d7, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2718
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, d6, b7, a5, c6, a7, b5, a3, c4, e5, g6, h8, f7, d8, e6, c7, a8, b6, d5, b4, a6, b8, d7, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2719
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, d6, b7, a5, c6, a7, b5, a3, c4, e5, d7, b8, a6, b4, d5, b6, a8, c7, e6, d8, f7, h8, g6, f8, h7, g5, e4, g3, h1, 
+Complete tour: 2720
+a1, c2, e1, g2, h4, f3, d2, b1, c3, a2, c1, e2, g1, h3, f2, d1, e3, f1, h2, g4, h6, f5, d4, b3, c5, a4, b2, d3, f4, h5, g7, e8, f6, g8, e7, c8, d6, b7, a5, c6, a7, b5, a3, c4, b6, a8, c7, d5, b4, a6, b8, d7, e5, g6, h8, f7, d8, e6, f8, h7, g5, e4, g3, h1, 
