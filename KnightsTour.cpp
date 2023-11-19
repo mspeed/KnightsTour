@@ -13,6 +13,8 @@ using std::pair;
 #include<optional>
 using std::optional; using std::nullopt;
 
+static constexpr int TOUR_LENGTH = 64;
+
 class cTour
 {
   using kPosition = pair<int, int>;
@@ -72,9 +74,8 @@ class cTour
 
   void static Complete(stack<int>& Tour)
   {
-    cout << "Complete. Tour:" << endl;
-
     stack<int> rTour;
+    
     while(Tour.size())
     {
       rTour.push(Tour.top());
@@ -82,6 +83,7 @@ class cTour
     }
     while(rTour.size())
     {
+      Tour.push(rTour.top());
       cout << rTour.top() << ", ";
       rTour.pop();
     }
@@ -90,7 +92,7 @@ class cTour
   
 public:
   
-  static void PlaceKnight(int Position, stack<int>& Tour, array<bool, 64>& Visited)    
+  static void PlaceKnight(int Position, stack<int>& Tour, array<bool, TOUR_LENGTH>& Visited)    
   {
     // Build a stack of legal moves from this position.
     kLegalMoves LegalMoves = GetLegalMoves(Position, Visited);
@@ -98,11 +100,12 @@ public:
     Visited[Position] = true;
     Tour.push(Position);
 
-    if(8 == Tour.size()) // Placed 4 knights.
+    if(TOUR_LENGTH == Tour.size()) 
     {
       Complete(Tour);
       Visited[Position] = false;
       Tour.pop();
+      return;
     }
     
     // While the stack is not empty:
@@ -118,7 +121,7 @@ public:
     Tour.pop();    
   }
 
-  static kLegalMoves GetLegalMoves(int Position, array<bool, 64> const& Visited)
+  static kLegalMoves GetLegalMoves(int Position, array<bool, TOUR_LENGTH> const& Visited)
   {
     kLegalMoves LegalMoves;
 
@@ -145,7 +148,7 @@ public:
 int main()
 {
 
-  array<bool, 64> Visited = {false};
+  array<bool, TOUR_LENGTH> Visited = {false};
   stack<int> Tour;
 
   cTour::PlaceKnight(0, Tour, Visited);
