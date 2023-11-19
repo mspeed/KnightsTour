@@ -16,5 +16,3 @@ Process(Position):
 
 ## Tours
 
-Indices are [0,1,2,.. ,8,9,10,..] -> [a1,b1,c1,..,a2,b2,c2,..] 
-
